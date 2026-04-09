@@ -1,5 +1,10 @@
 # Leetcode Solutions - DSA Journey by Pratham Saxena
-Daily DSA solutions in Java
+
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![DSA](https://img.shields.io/badge/Focus-DSA-orange)
+![Progress](https://img.shields.io/badge/Day-1-brightgreen)
+
+Daily DSA solutions in Java.
 
 
 Welcome to my Data Structures & Algorithms (DSA) journey!  
