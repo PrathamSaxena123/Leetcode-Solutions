@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-1-brightgreen)
+![Progress](https://img.shields.io/badge/Day-2-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -25,6 +25,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | Day | Problem | Platform | Difficulty | Topic | Language | Solution |
 |-----|--------|----------|------------|-------|----------|----------|
 | 1 | Product of Array Except Self | LeetCode | Medium | Arrays | Java | [View Code](Arrays/ProductOfArrayExceptSelf.java) |
+| 2 | Longest Substring Without Repeating Characters | LeetCode | Medium | Sliding Window | Java | [View Code](Strings/LongestSubstringWithoutRepeatingCharacters.java) |
 
 ---
 ## 📂 Repository Structure
