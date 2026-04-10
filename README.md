@@ -57,17 +57,18 @@ Leetcode-Solutions/
 
 ---
 
-## 🌟 Featured Problem – Day 1
+## 🌟 Featured Problem – Latest
 
-**🧩 Problem:** Product of Array Except Self  
+**🧩 Problem:** Longest Substring Without Repeating Characters  
 **📚 Platform:** LeetCode  
 **⚙️ Difficulty:** Medium  
+**🧠 Topic:** Sliding Window  
 
 ### 💡 Approach
-The problem is solved using the **Prefix and Suffix Product** technique, allowing computation of the result without using division while maintaining optimal efficiency.
+Used the Sliding Window technique with a HashSet to maintain a window of unique characters.
 
 - **Time Complexity:** O(n)  
-- **Space Complexity:** O(1) (excluding the output array)
+- **Space Complexity:** O(min(n, charset))
 
 ---
 
