@@ -32,7 +32,9 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 ```
 Leetcode-Solutions/
 ├── Arrays/
-│ └── ProductOfArrayExceptSelf.java
+│   └── ProductOfArrayExceptSelf.java
+├── Strings/
+│   └── LongestSubstringWithoutRepeatingCharacters.java
 └── README.md
 ```
 
