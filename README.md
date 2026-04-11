@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-2-brightgreen)
+![Progress](https://img.shields.io/badge/Day-3-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -26,6 +26,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 |-----|--------|----------|------------|-------|----------|----------|
 | 1 | Product of Array Except Self | LeetCode | Medium | Arrays | Java | [View Code](Arrays/ProductOfArrayExceptSelf.java) |
 | 2 | Longest Substring Without Repeating Characters | LeetCode | Medium | Sliding Window | Java | [View Code](Strings/LongestSubstringWithoutRepeatingCharacters.java) |
+| 3 | Longest Palindromic Substring | LeetCode | Medium | Strings | Java | [View Code](Strings/LongestPalindromicSubstring.java) |
 
 ---
 ## 📂 Repository Structure
@@ -34,7 +35,8 @@ Leetcode-Solutions/
 ├── Arrays/
 │   └── ProductOfArrayExceptSelf.java
 ├── Strings/
-│   └── LongestSubstringWithoutRepeatingCharacters.java
+│   ├── LongestSubstringWithoutRepeatingCharacters.java
+│   └── LongestPalindromicSubstring.java
 └── README.md
 ```
 
@@ -59,16 +61,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-**🧩 Problem:** Longest Substring Without Repeating Characters  
+**🧩 Problem:** Longest Palindromic Substring  
 **📚 Platform:** LeetCode  
 **⚙️ Difficulty:** Medium  
-**🧠 Topic:** Sliding Window  
+**🧠 Topic:** Strings, Two Pointers (Expand Around Center)  
 
 ### 💡 Approach
-Used the Sliding Window technique with a HashSet to maintain a window of unique characters.
+Used the **Expand Around Center** technique to identify palindromic substrings. For each character in the string, the algorithm considers it as a potential center and expands outward to check for both **odd-length** and **even-length** palindromes. The start and end indices of the longest palindrome are updated whenever a longer valid substring is found.
 
-- **Time Complexity:** O(n)  
-- **Space Complexity:** O(min(n, charset))
+- **Time Complexity:** O(n²)  
+- **Space Complexity:** O(1)
 
 ---
 
