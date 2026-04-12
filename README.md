@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-3-brightgreen)
+![Progress](https://img.shields.io/badge/Day-4-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -27,16 +27,19 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 1 | Product of Array Except Self | LeetCode | Medium | Arrays | Java | [View Code](Arrays/ProductOfArrayExceptSelf.java) |
 | 2 | Longest Substring Without Repeating Characters | LeetCode | Medium | Sliding Window | Java | [View Code](Strings/LongestSubstringWithoutRepeatingCharacters.java) |
 | 3 | Longest Palindromic Substring | LeetCode | Medium | Strings | Java | [View Code](Strings/LongestPalindromicSubstring.java) |
+| 4 | Group Anagrams | LeetCode | Medium | Strings, HashMap | Java | [View Code](Strings/GroupAnagrams.java) |
 
 ---
 ## 📂 Repository Structure
 ```
+📂 Repository Structure
 Leetcode-Solutions/
 ├── Arrays/
 │   └── ProductOfArrayExceptSelf.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
-│   └── LongestPalindromicSubstring.java
+│   ├── LongestPalindromicSubstring.java
+│   └── GroupAnagrams.java
 └── README.md
 ```
 
@@ -61,16 +64,17 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-**🧩 Problem:** Longest Palindromic Substring  
-**📚 Platform:** LeetCode  
-**⚙️ Difficulty:** Medium  
-**🧠 Topic:** Strings, Two Pointers (Expand Around Center)  
+🌟 Featured Problem – Latest
+🧩 Problem: Group Anagrams
+📚 Platform: LeetCode
+⚙️ Difficulty: Medium
+🧠 Topic: Strings, HashMap
 
-### 💡 Approach
-Used the **Expand Around Center** technique to identify palindromic substrings. For each character in the string, the algorithm considers it as a potential center and expands outward to check for both **odd-length** and **even-length** palindromes. The start and end indices of the longest palindrome are updated whenever a longer valid substring is found.
+💡 Approach
+Used a HashMap to group strings that are anagrams of each other. Each string was sorted to create a unique key representing its character composition. Strings sharing the same sorted key were grouped together and returned as the final result.
 
-- **Time Complexity:** O(n²)  
-- **Space Complexity:** O(1)
+Time Complexity: O(N × K log K)
+Space Complexity: O(N × K)
 
 ---
 
