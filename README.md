@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-4-brightgreen)
+![Progress](https://img.shields.io/badge/Day-5-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -28,6 +28,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 2 | Longest Substring Without Repeating Characters | LeetCode | Medium | Sliding Window | Java | [View Code](Strings/LongestSubstringWithoutRepeatingCharacters.java) |
 | 3 | Longest Palindromic Substring | LeetCode | Medium | Strings | Java | [View Code](Strings/LongestPalindromicSubstring.java) |
 | 4 | Group Anagrams | LeetCode | Medium | Strings, HashMap | Java | [View Code](Strings/GroupAnagrams.java) |
+| 5 | Minimum Distance to the Target Element | LeetCode | Easy | Arrays, Linear Search | Java | [View Code](Arrays/MinimumDistanceToTheTargetElement.java) |
 
 ---
 ## 📂 Repository Structure
@@ -35,7 +36,8 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 📂 Repository Structure
 Leetcode-Solutions/
 ├── Arrays/
-│   └── ProductOfArrayExceptSelf.java
+│   ├── ProductOfArrayExceptSelf.java
+│   └── MinimumDistanceToTargetElement.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
@@ -46,7 +48,7 @@ Leetcode-Solutions/
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics Covering
 - Arrays
 - Strings
 - Linked Lists
@@ -64,17 +66,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🌟 Featured Problem – Latest
-🧩 Problem: Group Anagrams
-📚 Platform: LeetCode
-⚙️ Difficulty: Medium
-🧠 Topic: Strings, HashMap
+🧩 **Problem:** Minimum Distance to the Target Element  
+📚 **Platform:** LeetCode  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Arrays, Linear Search  
 
-💡 Approach
-Used a HashMap to group strings that are anagrams of each other. Each string was sorted to create a unique key representing its character composition. Strings sharing the same sorted key were grouped together and returned as the final result.
+### 💡 Approach
+Performed a single traversal of the array to identify all indices where the target element appears. For each occurrence, the absolute distance from the given start index was calculated, and the minimum of these distances was maintained to obtain the final result.
 
-Time Complexity: O(N × K log K)
-Space Complexity: O(N × K)
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(1)
 
 ---
 
