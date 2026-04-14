@@ -29,7 +29,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 3 | Longest Palindromic Substring | LeetCode | Medium | Strings | Java | [View Code](Strings/LongestPalindromicSubstring.java) |
 | 4 | Group Anagrams | LeetCode | Medium | Strings, HashMap | Java | [View Code](Strings/GroupAnagrams.java) |
 | 5 | Minimum Distance to the Target Element | LeetCode | Easy | Arrays, Linear Search | Java | [View Code](Arrays/MinimumDistanceToTheTargetElement.java) |
-| 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArray.java) |
+| 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArrays.java) |
 
 ---
 ## 📂 Repository Structure
