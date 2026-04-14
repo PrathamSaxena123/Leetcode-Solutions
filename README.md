@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-5-brightgreen)
+![Progress](https://img.shields.io/badge/Day-6-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -29,15 +29,16 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 3 | Longest Palindromic Substring | LeetCode | Medium | Strings | Java | [View Code](Strings/LongestPalindromicSubstring.java) |
 | 4 | Group Anagrams | LeetCode | Medium | Strings, HashMap | Java | [View Code](Strings/GroupAnagrams.java) |
 | 5 | Minimum Distance to the Target Element | LeetCode | Easy | Arrays, Linear Search | Java | [View Code](Arrays/MinimumDistanceToTheTargetElement.java) |
+| 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArray.java) |
 
 ---
 ## 📂 Repository Structure
 ```
-📂 Repository Structure
 Leetcode-Solutions/
 ├── Arrays/
 │   ├── ProductOfArrayExceptSelf.java
-│   └── MinimumDistanceToTargetElement.java
+│   ├── MinimumDistanceToTargetElement.java
+│   └── MergeSortedArray.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
@@ -66,15 +67,15 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Minimum Distance to the Target Element  
+🧩 **Problem:** Merge Sorted Array  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Easy  
-🧠 **Topic:** Arrays, Linear Search  
+🧠 **Topic:** Arrays, Two Pointers  
 
 ### 💡 Approach
-Performed a single traversal of the array to identify all indices where the target element appears. For each occurrence, the absolute distance from the given start index was calculated, and the minimum of these distances was maintained to obtain the final result.
+Used the **two-pointer technique** starting from the end of both arrays. By comparing elements from the back, the larger value is placed at the correct position in `nums1`, enabling an efficient in-place merge without using extra space.
 
-- **Time Complexity:** O(n)  
+- **Time Complexity:** O(m + n)  
 - **Space Complexity:** O(1)
 
 ---
