@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-6-brightgreen)
+![Progress](https://img.shields.io/badge/Day-7-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -30,6 +30,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 4 | Group Anagrams | LeetCode | Medium | Strings, HashMap | Java | [View Code](Strings/GroupAnagrams.java) |
 | 5 | Minimum Distance to the Target Element | LeetCode | Easy | Arrays, Linear Search | Java | [View Code](Arrays/MinimumDistanceToTheTargetElement.java) |
 | 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArrays.java) |
+| 7 | Trapping Rain Water | LeetCode | Hard | Arrays, Two Pointers | Java | [View Code](Arrays/TrappingRainWater.java) |
 
 ---
 ## 📂 Repository Structure
@@ -38,7 +39,8 @@ Leetcode-Solutions/
 ├── Arrays/
 │   ├── ProductOfArrayExceptSelf.java
 │   ├── MinimumDistanceToTargetElement.java
-│   └── MergeSortedArray.java
+│   ├── MergeSortedArray.java
+│   └── TrappingRainWater.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
