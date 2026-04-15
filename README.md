@@ -67,15 +67,15 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Merge Sorted Array  
+🧩 **Problem:** Trapping Rain Water  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
+⚙️ **Difficulty:** Hard  
 🧠 **Topic:** Arrays, Two Pointers  
 
 ### 💡 Approach
-Used the **two-pointer technique** starting from the end of both arrays. By comparing elements from the back, the larger value is placed at the correct position in `nums1`, enabling an efficient in-place merge without using extra space.
+Used the **two-pointer technique** to compute the amount of trapped rainwater efficiently. By maintaining left and right pointers along with their respective maximum heights, the solution calculates trapped water in a single traversal without requiring additional space.
 
-- **Time Complexity:** O(m + n)  
+- **Time Complexity:** O(n)  
 - **Space Complexity:** O(1)
 
 ---
