@@ -31,6 +31,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 5 | Minimum Distance to the Target Element | LeetCode | Easy | Arrays, Linear Search | Java | [View Code](Arrays/MinimumDistanceToTheTargetElement.java) |
 | 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArrays.java) |
 | 7 | Trapping Rain Water | LeetCode | Hard | Arrays, Two Pointers | Java | [View Code](Arrays/TrappingRainWater.java) |
+| 8 | Closest Equal Element Queries | LeetCode | Hard | Arrays, HashMap, Binary Search | Java | [View Code](Arrays/ClosestEqualElementQueries.java) |
 
 ---
 ## 📂 Repository Structure
@@ -69,16 +70,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Trapping Rain Water  
+🧩 **Problem:** Closest Equal Element Queries  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Arrays, Two Pointers  
+🧠 **Topic:** Arrays, HashMap, Binary Search  
 
 ### 💡 Approach
-Used the **two-pointer technique** to compute the amount of trapped rainwater efficiently. By maintaining left and right pointers along with their respective maximum heights, the solution calculates trapped water in a single traversal without requiring additional space.
+Preprocessed the array by mapping each value to its occurrence indices. For each query, Binary Search was used to locate the nearest equal element efficiently.
 
-- **Time Complexity:** O(n)  
-- **Space Complexity:** O(1)
+- **Time Complexity:** O(n + q log n)  
+- **Space Complexity:** O(n)
 
 ---
 
