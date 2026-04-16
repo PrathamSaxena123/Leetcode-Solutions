@@ -41,7 +41,8 @@ Leetcode-Solutions/
 │   ├── ProductOfArrayExceptSelf.java
 │   ├── MinimumDistanceToTargetElement.java
 │   ├── MergeSortedArray.java
-│   └── TrappingRainWater.java
+│   ├── TrappingRainWater.java
+│   └── ClosestEqualElementQueries.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
