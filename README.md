@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-8-brightgreen)
+![Progress](https://img.shields.io/badge/Day-9-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -32,6 +32,7 @@ I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**,
 | 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArrays.java) |
 | 7 | Trapping Rain Water | LeetCode | Hard | Arrays, Two Pointers | Java | [View Code](Arrays/TrappingRainWater.java) |
 | 8 | Closest Equal Element Queries | LeetCode | Hard | Arrays, HashMap, Binary Search | Java | [View Code](Arrays/ClosestEqualElementQueries.java) |
+| 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) |
 
 ---
 ## 📂 Repository Structure
@@ -47,6 +48,8 @@ Leetcode-Solutions/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
 │   └── GroupAnagrams.java
+├── LinkedList/
+│   └── RemoveNthNodeFromEnd.java
 └── README.md
 ```
 
@@ -71,16 +74,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Closest Equal Element Queries  
+🧩 **Problem:** Remove Nth Node From End of List  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Arrays, HashMap, Binary Search  
+⚙️ **Difficulty:** Medium  
+🧠 **Topic:** Linked List, Two Pointers  
 
 ### 💡 Approach
-Preprocessed the array by mapping each value to its occurrence indices. For each query, Binary Search was used to locate the nearest equal element efficiently.
+Used the two-pointer technique with a dummy node to maintain a gap and remove the target node in a single traversal.
 
-- **Time Complexity:** O(n + q log n)  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(1)
 
 ---
 
