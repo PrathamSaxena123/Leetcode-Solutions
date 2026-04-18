@@ -2,13 +2,13 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-9-brightgreen)
+![Progress](https://img.shields.io/badge/Day-10-brightgreen)
 
 Daily DSA solutions in Java.
 
 
 Welcome to my Data Structures & Algorithms (DSA) journey!  
-I am solving problems daily from platforms like **LeetCode**, **GeeksforGeeks**, and **CodeChef** to strengthen my problem-solving skills and prepare for software engineering roles.
+I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks** to strengthen my problem solving skills and prepare for software engineering roles.
 
 ---
 
