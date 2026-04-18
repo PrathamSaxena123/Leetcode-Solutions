@@ -32,7 +32,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 6 | Merge Sorted Array | LeetCode | Easy | Arrays, Two Pointers | Java | [View Code](Arrays/MergeSortedArrays.java) |
 | 7 | Trapping Rain Water | LeetCode | Hard | Arrays, Two Pointers | Java | [View Code](Arrays/TrappingRainWater.java) |
 | 8 | Closest Equal Element Queries | LeetCode | Hard | Arrays, HashMap, Binary Search | Java | [View Code](Arrays/ClosestEqualElementQueries.java) |
-| 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) |
+| 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) | 10 | Reverse Linked List | LeetCode | Easy | Linked List, Pointers | Java | [View Code](LinkedList/ReverseLinkedList.java) |
 
 ---
 ## 📂 Repository Structure
@@ -49,7 +49,8 @@ Leetcode-Solutions/
 │   ├── LongestPalindromicSubstring.java
 │   └── GroupAnagrams.java
 ├── LinkedList/
-│   └── RemoveNthNodeFromEnd.java
+│   ├── RemoveNthNodeFromEnd.java
+│   └── ReverseLinkedList.java
 └── README.md
 ```
 
