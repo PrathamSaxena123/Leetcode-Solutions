@@ -10,6 +10,12 @@ Daily DSA solutions in Java.
 Welcome to my Data Structures & Algorithms (DSA) journey!"A resource that helps ME crack interviews....  
 I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks** to strengthen my problem solving skills and prepare for software engineering roles.
 
+![DSA Stats](https://quickchart.io/chart?c={type:'pie',data:{labels:['Easy','Medium','Hard'],datasets:[{data:[5,6,1]}]}})
+
+![Easy](https://img.shields.io/badge/Easy-5-green)
+![Medium](https://img.shields.io/badge/Medium-6-orange)
+![Hard](https://img.shields.io/badge/Hard-1-red)
+
 ---
 
 ## 🎯 Goals
