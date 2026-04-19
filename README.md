@@ -10,11 +10,6 @@ Daily DSA solutions in Java.
 Welcome to my Data Structures & Algorithms (DSA) journey!"A resource that helps ME crack interviews....  
 I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks** to strengthen my problem solving skills and prepare for software engineering roles.
 
-![DSA Stats](https://quickchart.io/chart?c={type:'pie',data:{labels:['Easy','Medium','Hard'],datasets:[{data:[5,6,1]}]}})
-
-![Easy](https://img.shields.io/badge/Easy-5-green)
-![Medium](https://img.shields.io/badge/Medium-6-orange)
-![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ---
 
@@ -41,6 +36,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) |
 | 10 | Reverse Linked List | LeetCode | Easy | Linked List, Pointers | Java | [View Code](LinkedList/ReverseLinkedList.java) |
 | 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
+
+
+![Easy](https://img.shields.io/badge/Easy-5-green)
+![Medium](https://img.shields.io/badge/Medium-6-orange)
+![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ---
 ## 📂 Repository Structure
