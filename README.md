@@ -34,6 +34,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 8 | Closest Equal Element Queries | LeetCode | Hard | Arrays, HashMap, Binary Search | Java | [View Code](Arrays/ClosestEqualElementQueries.java) |
 | 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) |
 | 10 | Reverse Linked List | LeetCode | Easy | Linked List, Pointers | Java | [View Code](LinkedList/ReverseLinkedList.java) |
+| 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
 
 ---
 ## 📂 Repository Structure
