@@ -53,6 +53,8 @@ Leetcode-Solutions/
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
+├── Stack/
+│   └── ValidParentheses.java
 └── README.md
 ```
 
@@ -77,16 +79,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Remove Nth Node From End of List  
+🧩 **Problem:** Valid Parentheses  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Linked List, Two Pointers  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Stack  
 
 ### 💡 Approach
-Used the two-pointer technique with a dummy node to maintain a gap and remove the target node in a single traversal.
+Used a stack to track opening brackets and ensured each closing bracket matches the most recent opening one.
 
 - **Time Complexity:** O(n)  
-- **Space Complexity:** O(1)
+- **Space Complexity:** O(n)
 
 ---
 
