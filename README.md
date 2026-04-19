@@ -38,9 +38,9 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-5-green)
-![Medium](https://img.shields.io/badge/Medium-6-orange)
-![Hard](https://img.shields.io/badge/Hard-1-red)
+![Easy](https://img.shields.io/badge/Easy-4-green)
+![Medium](https://img.shields.io/badge/Medium-5-orange)
+![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ---
 ## 📂 Repository Structure
