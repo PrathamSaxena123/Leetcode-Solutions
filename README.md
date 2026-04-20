@@ -36,6 +36,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 9 | Remove Nth Node From End | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/RemoveNthNodeFromEnd.java) |
 | 10 | Reverse Linked List | LeetCode | Easy | Linked List, Pointers | Java | [View Code](LinkedList/ReverseLinkedList.java) |
 | 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
+| 12 | Min Stack | LeetCode | Medium | Stack, Design | Java | [View Code](Stack/MinStack.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-4-green)
