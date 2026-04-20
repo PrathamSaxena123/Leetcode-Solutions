@@ -86,15 +86,15 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Valid Parentheses  
+🧩 **Problem:** Min Stack  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
-🧠 **Topic:** Stack  
+⚙️ **Difficulty:** Medium  
+🧠 **Topic:** Stack, Design  
 
 ### 💡 Approach
-Used a stack to track opening brackets and ensured each closing bracket matches the most recent opening one.
+Used an auxiliary stack to track the minimum element at each state, allowing O(1) retrieval of minimum value.
 
-- **Time Complexity:** O(n)  
+- **Time Complexity:** O(1)  
 - **Space Complexity:** O(n)
 
 ---
