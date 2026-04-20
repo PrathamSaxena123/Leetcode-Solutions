@@ -40,7 +40,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-4-green)
-![Medium](https://img.shields.io/badge/Medium-5-orange)
+![Medium](https://img.shields.io/badge/Medium-6-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ---
@@ -61,7 +61,8 @@ Leetcode-Solutions/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
 ├── Stack/
-│   └── ValidParentheses.java
+│   ├── ValidParentheses.java
+│   └── MinStack.java
 └── README.md
 ```
 
