@@ -88,15 +88,15 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Min Stack  
+🧩 **Problem:** Next Greater Element I  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Stack, Design  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Stack, Monotonic Stack  
 
 ### 💡 Approach
-Used an auxiliary stack to track the minimum element at each state, allowing O(1) retrieval of minimum value.
+Used a monotonic decreasing stack to efficiently determine the next greater element for each number in linear time.
 
-- **Time Complexity:** O(1)  
+- **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
 
 ---
