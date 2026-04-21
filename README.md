@@ -37,6 +37,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 10 | Reverse Linked List | LeetCode | Easy | Linked List, Pointers | Java | [View Code](LinkedList/ReverseLinkedList.java) |
 | 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
 | 12 | Min Stack | LeetCode | Medium | Stack, Design | Java | [View Code](Stack/MinStack.java) |
+| 13 | Next Greater Element I | LeetCode | Easy | Stack, Monotonic Stack | Java | [View Code](Stack/NextGreaterElementI.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-5-green)
