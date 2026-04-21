@@ -39,7 +39,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 12 | Min Stack | LeetCode | Medium | Stack, Design | Java | [View Code](Stack/MinStack.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-4-green)
+![Easy](https://img.shields.io/badge/Easy-5-green)
 ![Medium](https://img.shields.io/badge/Medium-6-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
