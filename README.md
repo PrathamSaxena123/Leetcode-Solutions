@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-13-brightgreen)
+![Progress](https://img.shields.io/badge/Day-14-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -38,10 +38,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 11 | Valid Parentheses | LeetCode | Easy | Stack | Java | [View Code](Stack/ValidParentheses.java) |
 | 12 | Min Stack | LeetCode | Medium | Stack, Design | Java | [View Code](Stack/MinStack.java) |
 | 13 | Next Greater Element I | LeetCode | Easy | Stack, Monotonic Stack | Java | [View Code](Stack/NextGreaterElementI.java) |
+| 14 | Daily Temperatures | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/DailyTemperatures.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-5-green)
-![Medium](https://img.shields.io/badge/Medium-6-orange)
+![Medium](https://img.shields.io/badge/Medium-7-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ---
@@ -64,7 +65,8 @@ Leetcode-Solutions/
 ├── Stack/
 │   ├── ValidParentheses.java
 │   ├── MinStack.java
-│   └── NextGreaterElementI.java
+│   ├── NextGreaterElementI.java
+│   └── DailyTemperatures.java
 └── README.md
 ```
 
@@ -89,13 +91,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Next Greater Element I  
+🧩 **Problem:** Daily Temperatures  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
+⚙️ **Difficulty:** Medium  
 🧠 **Topic:** Stack, Monotonic Stack  
 
 ### 💡 Approach
-Used a monotonic decreasing stack to efficiently determine the next greater element for each number in linear time.
+Used a monotonic decreasing stack to efficiently compute the number of days until a warmer temperature.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
