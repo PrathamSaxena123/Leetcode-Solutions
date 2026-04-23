@@ -39,6 +39,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 12 | Min Stack | LeetCode | Medium | Stack, Design | Java | [View Code](Stack/MinStack.java) |
 | 13 | Next Greater Element I | LeetCode | Easy | Stack, Monotonic Stack | Java | [View Code](Stack/NextGreaterElementI.java) |
 | 14 | Daily Temperatures | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/DailyTemperatures.java) |
+| 15 | Next Greater Element II | LeetCode | Medium | Stack, Monotonic Stack, Circular | Java | [View Code](Stack/NextGreaterElementII.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-5-green)
