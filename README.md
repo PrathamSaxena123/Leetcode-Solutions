@@ -67,7 +67,8 @@ Leetcode-Solutions/
 │   ├── ValidParentheses.java
 │   ├── MinStack.java
 │   ├── NextGreaterElementI.java
-│   └── DailyTemperatures.java
+│   ├── DailyTemperatures.java
+│   └── NextGreaterElementII.java
 └── README.md
 ```
 
@@ -92,13 +93,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Daily Temperatures  
+🧩 **Problem:** Next Greater Element II  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Stack, Monotonic Stack  
+🧠 **Topic:** Stack, Monotonic Stack, Circular Array  
 
 ### 💡 Approach
-Used a monotonic decreasing stack to efficiently compute the number of days until a warmer temperature.
+Used a monotonic stack and traversed the array twice to simulate circular behavior efficiently.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
