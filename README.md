@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-15-brightgreen)
+![Progress](https://img.shields.io/badge/Day-16-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -40,11 +40,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 13 | Next Greater Element I | LeetCode | Easy | Stack, Monotonic Stack | Java | [View Code](Stack/NextGreaterElementI.java) |
 | 14 | Daily Temperatures | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/DailyTemperatures.java) |
 | 15 | Next Greater Element II | LeetCode | Medium | Stack, Monotonic Stack, Circular | Java | [View Code](Stack/NextGreaterElementII.java) |
+| 16 | Largest Rectangle in Histogram | LeetCode | Hard | Stack, Monotonic Stack | Java | [View Code](Stack/LargestRectangleInHistogram.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-5-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
-![Hard](https://img.shields.io/badge/Hard-2-red)
+![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ---
 ## 📂 Repository Structure
@@ -63,12 +64,13 @@ Leetcode-Solutions/
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
-├── Stack/
-│   ├── ValidParentheses.java
-│   ├── MinStack.java
-│   ├── NextGreaterElementI.java
-│   ├── DailyTemperatures.java
-│   └── NextGreaterElementII.java
+Stack/
+|   ├── ValidParentheses.java
+|   ├── MinStack.java
+|   ├── NextGreaterElementI.java
+|   ├── DailyTemperatures.java
+|   ├── NextGreaterElementII.java
+|   └── LargestRectangleInHistogram.java
 └── README.md
 ```
 
@@ -93,13 +95,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Next Greater Element II  
+🧩 **Problem:** Largest Rectangle in Histogram  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Stack, Monotonic Stack, Circular Array  
+⚙️ **Difficulty:** Hard  
+🧠 **Topic:** Stack, Monotonic Stack  
 
 ### 💡 Approach
-Used a monotonic stack and traversed the array twice to simulate circular behavior efficiently.
+Used a monotonic increasing stack to compute maximum area by resolving taller bars when a smaller bar appears.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
