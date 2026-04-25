@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-16-brightgreen)
+![Progress](https://img.shields.io/badge/Day-17-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -41,9 +41,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 14 | Daily Temperatures | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/DailyTemperatures.java) |
 | 15 | Next Greater Element II | LeetCode | Medium | Stack, Monotonic Stack, Circular | Java | [View Code](Stack/NextGreaterElementII.java) |
 | 16 | Largest Rectangle in Histogram | LeetCode | Hard | Stack, Monotonic Stack | Java | [View Code](Stack/LargestRectangleInHistogram.java) |
+| 17 | Implement Queue using Stacks | LeetCode | Easy | Stack, Queue, Design | Java | [View Code](Queue/ImplementQueueUsingStacks.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-5-green)
+![Easy](https://img.shields.io/badge/Easy-6-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-3-red)
 
@@ -64,7 +65,9 @@ Leetcode-Solutions/
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
-Stack/
+├── Queue/
+│   └── ImplementQueueUsingStacks.java
+├── Stack/
 |   ├── ValidParentheses.java
 |   ├── MinStack.java
 |   ├── NextGreaterElementI.java
@@ -95,15 +98,15 @@ Stack/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Largest Rectangle in Histogram  
+🧩 **Problem:** Implement Queue using Stacks  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Stack, Monotonic Stack  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Stack, Queue, Design  
 
 ### 💡 Approach
-Used a monotonic increasing stack to compute maximum area by resolving taller bars when a smaller bar appears.
+Used two stacks with lazy transfer to simulate FIFO behavior efficiently.
 
-- **Time Complexity:** O(n)  
+- **Time Complexity:** Amortized O(1)  
 - **Space Complexity:** O(n)
 
 ---
