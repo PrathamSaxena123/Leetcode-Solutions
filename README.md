@@ -42,6 +42,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 15 | Next Greater Element II | LeetCode | Medium | Stack, Monotonic Stack, Circular | Java | [View Code](Stack/NextGreaterElementII.java) |
 | 16 | Largest Rectangle in Histogram | LeetCode | Hard | Stack, Monotonic Stack | Java | [View Code](Stack/LargestRectangleInHistogram.java) |
 | 17 | Implement Queue using Stacks | LeetCode | Easy | Stack, Queue, Design | Java | [View Code](Queue/ImplementQueueUsingStacks.java) |
+| 18 | Sliding Window Maximum | LeetCode | Hard | Queue, Deque, Sliding Window | Java | [View Code](Queue/SlidingWindowMaximum.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-6-green)
