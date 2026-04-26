@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-17-brightgreen)
+![Progress](https://img.shields.io/badge/Day-18-brightgreen)
 
 Daily DSA solutions in Java.
 
@@ -46,7 +46,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 ![Easy](https://img.shields.io/badge/Easy-6-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
-![Hard](https://img.shields.io/badge/Hard-3-red)
+![Hard](https://img.shields.io/badge/Hard-4-red)
 
 ---
 ## 📂 Repository Structure
