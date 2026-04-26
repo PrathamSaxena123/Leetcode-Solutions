@@ -98,16 +98,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Implement Queue using Stacks  
+🧩 **Problem:** Sliding Window Maximum  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
-🧠 **Topic:** Stack, Queue, Design  
+⚙️ **Difficulty:** Hard  
+🧠 **Topic:** Deque, Sliding Window, Monotonic Queue  
 
 ### 💡 Approach
-Used two stacks with lazy transfer to simulate FIFO behavior efficiently.
+Used a monotonic decreasing deque to maintain maximum element in each window efficiently.
 
-- **Time Complexity:** Amortized O(1)  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(k)
 
 ---
 
