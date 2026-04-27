@@ -101,16 +101,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Sliding Window Maximum  
+🧩 **Problem:** Shortest Subarray with Sum ≥ K  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Deque, Sliding Window, Monotonic Queue  
+🧠 **Topic:** Queue, Deque, Prefix Sum  
 
 ### 💡 Approach
-Used a monotonic decreasing deque to maintain maximum element in each window efficiently.
+Used prefix sums and a monotonic deque to efficiently find the smallest subarray length.
 
 - **Time Complexity:** O(n)  
-- **Space Complexity:** O(k)
+- **Space Complexity:** O(n)
 
 ---
 
