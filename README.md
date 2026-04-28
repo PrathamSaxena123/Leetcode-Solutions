@@ -49,7 +49,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 ![Easy](https://img.shields.io/badge/Easy-6-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
 ## 📂 Repository Structure
