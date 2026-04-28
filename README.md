@@ -4,7 +4,7 @@
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
 ![Progress](https://img.shields.io/badge/Day-20-brightgreen)
 
-Daily DSA solutions in Java.
+Daily DSA Solutions in Java!
 
 
 Welcome to my Data Structures & Algorithms (DSA) journey!"A resource that helps ME crack interviews....  
