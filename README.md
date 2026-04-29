@@ -105,13 +105,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Shortest Subarray with Sum ≥ K  
+🧩 **Problem:** Binary Tree Inorder Traversal  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Queue, Deque, Prefix Sum  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used prefix sums and a monotonic deque to efficiently find the smallest subarray length.
+Used both recursion and stack-based iteration to traverse the tree in Left → Root → Right order.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
