@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-20-brightgreen)
+![Progress](https://img.shields.io/badge/Day-21-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -45,9 +45,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 18 | Sliding Window Maximum | LeetCode | Hard | Queue, Deque, Sliding Window | Java | [View Code](Queue/SlidingWindowMaximum.java) |
 | 19 | Shortest Subarray with Sum ≥ K | LeetCode | Hard | Queue, Deque, Prefix Sum | Java | [View Code](Queue/ShortestSubarrayWithSumAtLeastK.java) |
 | 20 | Top K Frequent Elements | LeetCode | Hard | Queue, Heap, HashMap | Java | [View Code](Queue/TopKFrequentElements.java) |
+| 21 | Binary Tree Inorder Traversal | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/InorderTraversal.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-6-green)
+![Easy](https://img.shields.io/badge/Easy-7-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
