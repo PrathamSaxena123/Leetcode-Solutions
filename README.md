@@ -81,6 +81,8 @@ Leetcode-Solutions/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
 │   └── GroupAnagrams.java
+├── Tree/
+│   └── InorderTraversal.java
 └── README.md
 ```
 
