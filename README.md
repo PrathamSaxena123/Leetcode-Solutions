@@ -109,13 +109,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Binary Tree Inorder Traversal  
+🧩 **Problem:** Maximum Depth of Binary Tree  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Easy  
 🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used both recursion and stack-based iteration to traverse the tree in Left → Root → Right order.
+Used recursion to compute height by taking maximum depth of left and right subtrees.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
