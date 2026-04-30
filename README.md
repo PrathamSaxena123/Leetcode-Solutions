@@ -83,7 +83,8 @@ Leetcode-Solutions/
 │   ├── LongestPalindromicSubstring.java
 │   └── GroupAnagrams.java
 ├── Tree/
-│   └── InorderTraversal.java
+│   ├── InorderTraversal.java
+│   └── MaximumDepthOfBinaryTree.java
 └── README.md
 ```
 
