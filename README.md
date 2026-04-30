@@ -46,9 +46,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 19 | Shortest Subarray with Sum ≥ K | LeetCode | Hard | Queue, Deque, Prefix Sum | Java | [View Code](Queue/ShortestSubarrayWithSumAtLeastK.java) |
 | 20 | Top K Frequent Elements | LeetCode | Hard | Queue, Heap, HashMap | Java | [View Code](Queue/TopKFrequentElements.java) |
 | 21 | Binary Tree Inorder Traversal | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/InorderTraversal.java) |
+| 22 | Maximum Depth of Binary Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/MaximumDepthOfBinaryTree.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-7-green)
+![Easy](https://img.shields.io/badge/Easy-8-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
