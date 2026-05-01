@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-22-brightgreen)
+![Progress](https://img.shields.io/badge/Day-23-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -47,9 +47,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 20 | Top K Frequent Elements | LeetCode | Hard | Queue, Heap, HashMap | Java | [View Code](Queue/TopKFrequentElements.java) |
 | 21 | Binary Tree Inorder Traversal | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/InorderTraversal.java) |
 | 22 | Maximum Depth of Binary Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/MaximumDepthOfBinaryTree.java) |
+| 23 | Same Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SameTree.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-8-green)
+![Easy](https://img.shields.io/badge/Easy-9-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
@@ -84,7 +85,8 @@ Leetcode-Solutions/
 │   └── GroupAnagrams.java
 ├── Tree/
 │   ├── InorderTraversal.java
-│   └── MaximumDepthOfBinaryTree.java
+│   ├── MaximumDepthOfBinaryTree.java
+│   └── SameTree.java
 └── README.md
 ```
 
@@ -109,13 +111,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Maximum Depth of Binary Tree  
+🧩 **Problem:** Same Tree  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Easy  
 🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used recursion to compute height by taking maximum depth of left and right subtrees.
+Used recursion to compare both trees node-by-node for structure and value equality.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
