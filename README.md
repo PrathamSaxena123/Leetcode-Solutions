@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-23-brightgreen)
+![Progress](https://img.shields.io/badge/Day-24-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -48,9 +48,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 21 | Binary Tree Inorder Traversal | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/InorderTraversal.java) |
 | 22 | Maximum Depth of Binary Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/MaximumDepthOfBinaryTree.java) |
 | 23 | Same Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SameTree.java) |
+| 24 | Symmetric Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SymmetricTree.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-9-green)
+![Easy](https://img.shields.io/badge/Easy-10-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
@@ -111,13 +112,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Same Tree  
+🧩 **Problem:** Symmetric Tree  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Easy  
 🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used recursion to compare both trees node-by-node for structure and value equality.
+Used recursion with mirror logic by comparing left subtree with right subtree.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
