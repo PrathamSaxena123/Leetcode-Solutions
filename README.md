@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-24-brightgreen)
+![Progress](https://img.shields.io/badge/Day-25-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -48,11 +48,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 21 | Binary Tree Inorder Traversal | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/InorderTraversal.java) |
 | 22 | Maximum Depth of Binary Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/MaximumDepthOfBinaryTree.java) |
 | 23 | Same Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SameTree.java) |
-| 24 | Symmetric Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SymmetricTree.java) |
+| 24 | Symmetric Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SymmetricTrees.java) |
+| 25 | Binary Tree Level Order Traversal | LeetCode | Medium | Trees, BFS, Queue | Java | [View Code](Tree/BinaryTreeLevelOrderTraversal.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
-![Medium](https://img.shields.io/badge/Medium-8-orange)
+![Medium](https://img.shields.io/badge/Medium-9-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
@@ -87,7 +88,9 @@ Leetcode-Solutions/
 ├── Tree/
 │   ├── InorderTraversal.java
 │   ├── MaximumDepthOfBinaryTree.java
-│   └── SameTree.java
+│   ├── SameTree.java
+│   ├── SymmetricTrees.java
+│   └── BinaryTreeLevelOrderTraversal.java
 └── README.md
 ```
 
@@ -112,13 +115,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Symmetric Tree  
+🧩 **Problem:** Binary Tree Level Order Traversal  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
-🧠 **Topic:** Trees, DFS  
+⚙️ **Difficulty:** Medium  
+🧠 **Topic:** Trees, BFS  
 
 ### 💡 Approach
-Used recursion with mirror logic by comparing left subtree with right subtree.
+Used a queue to traverse the tree level-by-level, processing nodes in batches using level size.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
