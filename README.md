@@ -117,13 +117,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Binary Tree Level Order Traversal  
+🧩 **Problem:** Path Sum II  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Trees, BFS  
+🧠 **Topic:** Trees, Backtracking  
 
 ### 💡 Approach
-Used a queue to traverse the tree level-by-level, processing nodes in batches using level size.
+Used DFS with backtracking to explore all root-to-leaf paths and store valid paths matching target sum.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
