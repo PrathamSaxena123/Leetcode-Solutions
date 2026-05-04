@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-25-brightgreen)
+![Progress](https://img.shields.io/badge/Day-26-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -50,10 +50,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 23 | Same Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SameTree.java) |
 | 24 | Symmetric Tree | LeetCode | Easy | Trees, DFS | Java | [View Code](Tree/SymmetricTrees.java) |
 | 25 | Binary Tree Level Order Traversal | LeetCode | Medium | Trees, BFS, Queue | Java | [View Code](Tree/BinaryTreeLevelOrderTraversal.java) |
+| 26 | Path Sum II | LeetCode | Medium | Trees, DFS, Backtracking | Java | [View Code](Tree/PathSumII.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
-![Medium](https://img.shields.io/badge/Medium-9-orange)
+![Medium](https://img.shields.io/badge/Medium-10-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
@@ -89,8 +90,9 @@ Leetcode-Solutions/
 │   ├── InorderTraversal.java
 │   ├── MaximumDepthOfBinaryTree.java
 │   ├── SameTree.java
-│   ├── SymmetricTrees.java
-│   └── BinaryTreeLevelOrderTraversal.java
+│   ├── SymmetricTree.java
+│   ├── BinaryTreeLevelOrderTraversal.java
+│   └── PathSumII.java
 └── README.md
 ```
 
