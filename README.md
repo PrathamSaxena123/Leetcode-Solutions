@@ -119,13 +119,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Path Sum II  
+🧩 **Problem:** Lowest Common Ancestor of Binary Tree  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Trees, Backtracking  
+🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used DFS with backtracking to explore all root-to-leaf paths and store valid paths matching target sum.
+Used recursion to identify the lowest node where both target nodes appear in different subtrees.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
