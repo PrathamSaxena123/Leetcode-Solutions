@@ -1,4 +1,4 @@
-# Leetcode Solutions - DSA Journey by Pratham Saxena
+# Leetcode Solutions - DSA Journey by Pratham Saxena!
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
