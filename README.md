@@ -8,7 +8,7 @@ Daily DSA Solutions in Java!
 
 
 Welcome to my Data Structures & Algorithms (DSA) journey!"A resource that helps ME crack interviews....  
-I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks** to strengthen my problem solving skills and prepare for software engineering roles.
+I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks** to strengthen my problem solving skills and prepare for software engineering roles. 
 
 
 ---
