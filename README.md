@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-27-brightgreen)
+![Progress](https://img.shields.io/badge/Day-28-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -52,10 +52,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 25 | Binary Tree Level Order Traversal | LeetCode | Medium | Trees, BFS, Queue | Java | [View Code](Tree/BinaryTreeLevelOrderTraversal.java) |
 | 26 | Path Sum II | LeetCode | Medium | Trees, DFS, Backtracking | Java | [View Code](Tree/PathSumII.java) |
 | 27 | Lowest Common Ancestor of Binary Tree | LeetCode | Medium | Trees, DFS | Java | [View Code](Tree/LowestCommonAncestor.java) |
+| 28 | Diameter of Binary Tree | LeetCode | Medium | Trees, DFS | Java | [View Code](Tree/DiameterOfBinaryTree.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
-![Medium](https://img.shields.io/badge/Medium-11-orange)
+![Medium](https://img.shields.io/badge/Medium-12-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
@@ -94,7 +95,8 @@ Leetcode-Solutions/
 │   ├── SymmetricTree.java
 │   ├── BinaryTreeLevelOrderTraversal.java
 │   ├── PathSumII.java
-│   └── LowestCommonAncestor.java
+│   ├── LowestCommonAncestor.java
+│   └── DiameterOfBinaryTree.java
 └── README.md
 ```
 
@@ -119,13 +121,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Lowest Common Ancestor of Binary Tree  
+🧩 **Problem:** Diameter of Binary Tree  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
 🧠 **Topic:** Trees, DFS  
 
 ### 💡 Approach
-Used recursion to identify the lowest node where both target nodes appear in different subtrees.
+Used DFS to compute subtree heights and updated maximum diameter at each node.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
