@@ -96,7 +96,9 @@ Leetcode-Solutions/
 │   ├── BinaryTreeLevelOrderTraversal.java
 │   ├── PathSumII.java
 │   ├── LowestCommonAncestor.java
-│   └── DiameterOfBinaryTree.java
+│   ├── DiameterOfBinaryTree.java
+│   ├── ConstructBinaryTreeFromPreorderAndInorder.java
+│   └── ConstructBinaryTreeFromInorderAndPostorder.java
 └── README.md
 ```
 
