@@ -54,6 +54,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 27 | Lowest Common Ancestor of Binary Tree | LeetCode | Medium | Trees, DFS | Java | [View Code](Tree/LowestCommonAncestor.java) |
 | 28 | Diameter of Binary Tree | LeetCode | Medium | Trees, DFS | Java | [View Code](Tree/DiameterOfBinaryTree.java) |
 | 29 | Construct Binary Tree from Preorder and Inorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromPreorderAndInorder.java) |
+| 30 | Construct Binary Tree from Inorder and Postorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromInorderAndPostorder.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
