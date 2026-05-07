@@ -56,7 +56,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
-![Medium](https://img.shields.io/badge/Medium-12-orange)
+![Medium](https://img.shields.io/badge/Medium-14-orange)
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
@@ -123,13 +123,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Diameter of Binary Tree  
+🧩 **Problems:**  
+• Construct Binary Tree from Preorder and Inorder Traversal  
+• Construct Binary Tree from Inorder and Postorder Traversal  
+
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Trees, DFS  
+🧠 **Topic:** Trees, Recursion  
 
 ### 💡 Approach
-Used DFS to compute subtree heights and updated maximum diameter at each node.
+Used recursive divide-and-conquer strategy with inorder traversal indexing to reconstruct binary trees efficiently.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
