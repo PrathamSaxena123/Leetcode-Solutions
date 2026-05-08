@@ -55,11 +55,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 28 | Diameter of Binary Tree | LeetCode | Medium | Trees, DFS | Java | [View Code](Tree/DiameterOfBinaryTree.java) |
 | 29 | Construct Binary Tree from Preorder and Inorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromPreorderAndInorder.java) |
 | 30 | Construct Binary Tree from Inorder and Postorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromInorderAndPostorder.java) |
+| 31 | Binary Tree Maximum Path Sum | LeetCode | Hard | Trees, DFS, DP | Java | [View Code](Tree/BinaryTreeMaximumPathSum.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
 ![Medium](https://img.shields.io/badge/Medium-14-orange)
-![Hard](https://img.shields.io/badge/Hard-6-red)
+![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
 ## 📂 Repository Structure
