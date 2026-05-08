@@ -127,16 +127,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problems:**  
-• Construct Binary Tree from Preorder and Inorder Traversal  
-• Construct Binary Tree from Inorder and Postorder Traversal  
-
+🧩 **Problem:** Binary Tree Maximum Path Sum  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Trees, Recursion  
+⚙️ **Difficulty:** Hard  
+🧠 **Topic:** Trees, DFS, DP  
 
 ### 💡 Approach
-Used recursive divide-and-conquer strategy with inorder traversal indexing to reconstruct binary trees efficiently.
+Used DFS recursion to calculate maximum subtree gains while updating the global maximum path sum.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
