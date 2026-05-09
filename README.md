@@ -60,7 +60,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
-![Medium](https://img.shields.io/badge/Medium-14-orange)
+![Medium](https://img.shields.io/badge/Medium-15-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
@@ -128,16 +128,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Binary Tree Maximum Path Sum  
+🧩 **Problem:** Number of Islands  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Trees, DFS, DP  
+⚙️ **Difficulty:** Medium  
+🧠 **Topic:** Graphs, DFS  
 
 ### 💡 Approach
-Used DFS recursion to calculate maximum subtree gains while updating the global maximum path sum.
+Used DFS to traverse connected land cells in the grid and count distinct islands.
 
-- **Time Complexity:** O(n)  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(m × n)  
+- **Space Complexity:** O(m × n)
 
 ---
 
