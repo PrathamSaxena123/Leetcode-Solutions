@@ -73,6 +73,8 @@ Leetcode-Solutions/
 │   ├── MergeSortedArray.java
 │   ├── TrappingRainWater.java
 │   └── ClosestEqualElementQueries.java
+├── Graph/
+│   └── NumberOfIslands.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
