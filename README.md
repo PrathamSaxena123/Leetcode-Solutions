@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-30-brightgreen)
+![Progress](https://img.shields.io/badge/Day-31-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -56,6 +56,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 29 | Construct Binary Tree from Preorder and Inorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromPreorderAndInorder.java) |
 | 30 | Construct Binary Tree from Inorder and Postorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromInorderAndPostorder.java) |
 | 31 | Binary Tree Maximum Path Sum | LeetCode | Hard | Trees, DFS, DP | Java | [View Code](Tree/BinaryTreeMaximumPathSum.java) |
+| 32 | Number of Islands | LeetCode | Medium | Graphs, DFS | Java | [View Code](Graph/NumberOfIslands.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-10-green)
