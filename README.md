@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-31-brightgreen)
+![Progress](https://img.shields.io/badge/Day-32-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -57,9 +57,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 30 | Construct Binary Tree from Inorder and Postorder Traversal | LeetCode | Medium | Trees, Recursion | Java | [View Code](Tree/ConstructBinaryTreeFromInorderAndPostorder.java) |
 | 31 | Binary Tree Maximum Path Sum | LeetCode | Hard | Trees, DFS, DP | Java | [View Code](Tree/BinaryTreeMaximumPathSum.java) |
 | 32 | Number of Islands | LeetCode | Medium | Graphs, DFS | Java | [View Code](Graph/NumberOfIslands.java) |
+| 33 | Flood Fill | LeetCode | Easy | Graphs, DFS | Java | [View Code](Graph/FloodFill.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-10-green)
+![Easy](https://img.shields.io/badge/Easy-11-green)
 ![Medium](https://img.shields.io/badge/Medium-15-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -74,7 +75,8 @@ Leetcode-Solutions/
 │   ├── TrappingRainWater.java
 │   └── ClosestEqualElementQueries.java
 ├── Graph/
-│   └── NumberOfIslands.java
+│   ├── NumberOfIslands.java
+│   └── FloodFill.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
@@ -130,13 +132,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Number of Islands  
+🧩 **Problem:** Flood Fill  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
+⚙️ **Difficulty:** Easy  
 🧠 **Topic:** Graphs, DFS  
 
 ### 💡 Approach
-Used DFS to traverse connected land cells in the grid and count distinct islands.
+Used DFS to traverse all connected cells with the same original color and recolor them efficiently.
 
 - **Time Complexity:** O(m × n)  
 - **Space Complexity:** O(m × n)
