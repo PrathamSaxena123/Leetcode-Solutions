@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-32-brightgreen)
+![Progress](https://img.shields.io/badge/Day-33-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -58,10 +58,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 31 | Binary Tree Maximum Path Sum | LeetCode | Hard | Trees, DFS, DP | Java | [View Code](Tree/BinaryTreeMaximumPathSum.java) |
 | 32 | Number of Islands | LeetCode | Medium | Graphs, DFS | Java | [View Code](Graph/NumberOfIslands.java) |
 | 33 | Flood Fill | LeetCode | Easy | Graphs, DFS | Java | [View Code](Graph/FloodFill.java) |
+| 34 | Clone Graph | LeetCode | Medium | Graphs, DFS, HashMap | Java | [View Code](Graph/CloneGraph.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
-![Medium](https://img.shields.io/badge/Medium-15-orange)
+![Medium](https://img.shields.io/badge/Medium-16-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
@@ -76,7 +77,8 @@ Leetcode-Solutions/
 │   └── ClosestEqualElementQueries.java
 ├── Graph/
 │   ├── NumberOfIslands.java
-│   └── FloodFill.java
+│   ├── FloodFill.java
+│   └── CloneGraph.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
