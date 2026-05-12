@@ -136,16 +136,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Clone Graph  
+🧩 **Problem:** Course Schedule  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Graphs, DFS, HashMap  
+🧠 **Topic:** Graphs, DFS, Topological Sort  
 
 ### 💡 Approach
-Used DFS with a HashMap to create a deep copy of all nodes while handling cycles in the graph.
+Used DFS with 3-state visitation tracking to detect cycles in a directed graph.
 
 - **Time Complexity:** O(V + E)  
-- **Space Complexity:** O(V)
+- **Space Complexity:** O(V + E)
 
 ---
 
