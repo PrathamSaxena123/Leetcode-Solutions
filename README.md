@@ -59,6 +59,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 32 | Number of Islands | LeetCode | Medium | Graphs, DFS | Java | [View Code](Graph/NumberOfIslands.java) |
 | 33 | Flood Fill | LeetCode | Easy | Graphs, DFS | Java | [View Code](Graph/FloodFill.java) |
 | 34 | Clone Graph | LeetCode | Medium | Graphs, DFS, HashMap | Java | [View Code](Graph/CloneGraph.java) |
+| 35 | Course Schedule | LeetCode | Medium | Graphs, DFS, Topological Sort | Java | [View Code](Graph/CourseSchedule.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
@@ -78,7 +79,8 @@ Leetcode-Solutions/
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
-│   └── CloneGraph.java
+│   ├── CloneGraph.java
+│   └── CourseSchedule.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
