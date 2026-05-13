@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-34-brightgreen)
+![Progress](https://img.shields.io/badge/Day-35-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -136,13 +136,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Course Schedule  
+🧩 **Problem:** Course Schedule II  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Graphs, DFS, Topological Sort  
+🧠 **Topic:** Graphs, BFS, Topological Sort  
 
 ### 💡 Approach
-Used DFS with 3-state visitation tracking to detect cycles in a directed graph.
+Used Kahn’s Algorithm with indegree tracking to generate a valid topological ordering.
 
 - **Time Complexity:** O(V + E)  
 - **Space Complexity:** O(V + E)
