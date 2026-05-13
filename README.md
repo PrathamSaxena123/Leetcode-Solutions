@@ -60,10 +60,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 33 | Flood Fill | LeetCode | Easy | Graphs, DFS | Java | [View Code](Graph/FloodFill.java) |
 | 34 | Clone Graph | LeetCode | Medium | Graphs, DFS, HashMap | Java | [View Code](Graph/CloneGraph.java) |
 | 35 | Course Schedule | LeetCode | Medium | Graphs, DFS, Topological Sort | Java | [View Code](Graph/CourseSchedule.java) |
+| 36 | Course Schedule II | LeetCode | Medium | Graphs, BFS, Topological Sort | Java | [View Code](Graph/CourseScheduleII.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
-![Medium](https://img.shields.io/badge/Medium-17-orange)
+![Medium](https://img.shields.io/badge/Medium-18-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
@@ -80,7 +81,8 @@ Leetcode-Solutions/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
 │   ├── CloneGraph.java
-│   └── CourseSchedule.java
+│   ├── CourseSchedule.java
+│   └── CourseScheduleII.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
