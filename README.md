@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-35-brightgreen)
+![Progress](https://img.shields.io/badge/Day-36-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -61,10 +61,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 34 | Clone Graph | LeetCode | Medium | Graphs, DFS, HashMap | Java | [View Code](Graph/CloneGraph.java) |
 | 35 | Course Schedule | LeetCode | Medium | Graphs, DFS, Topological Sort | Java | [View Code](Graph/CourseSchedule.java) |
 | 36 | Course Schedule II | LeetCode | Medium | Graphs, BFS, Topological Sort | Java | [View Code](Graph/CourseScheduleII.java) |
+| 37 | Pacific Atlantic Water Flow | LeetCode | Medium | Graphs, DFS, Multi-Score Traversal | Java | [View Code](Graph/PacificAtlanticWaterFlow.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
-![Medium](https://img.shields.io/badge/Medium-18-orange)
+![Medium](https://img.shields.io/badge/Medium-19-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
@@ -82,7 +83,8 @@ Leetcode-Solutions/
 │   ├── FloodFill.java
 │   ├── CloneGraph.java
 │   ├── CourseSchedule.java
-│   └── CourseScheduleII.java
+│   ├── CourseScheduleII.java
+│   └── PacificAtlanticWaterFlow.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
@@ -138,16 +140,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Course Schedule II  
+🧩 **Problem:** Pacific Atlantic Water Flow  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Graphs, BFS, Topological Sort  
+🧠 **Topic:** Graphs, DFS, Multi-Source Traversal  
 
 ### 💡 Approach
-Used Kahn’s Algorithm with indegree tracking to generate a valid topological ordering.
+Used reverse DFS traversal from both oceans to determine cells reachable by both Pacific and Atlantic oceans.
 
-- **Time Complexity:** O(V + E)  
-- **Space Complexity:** O(V + E)
+- **Time Complexity:** O(m × n)  
+- **Space Complexity:** O(m × n)
 
 ---
 
