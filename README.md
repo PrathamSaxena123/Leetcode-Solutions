@@ -144,16 +144,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Redundant Connection  
+🧩 **Problem:** Network Delay Time  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Graphs, Union Find (DSU)  
+🧠 **Topic:** Graphs, Dijkstra Algorithm  
 
 ### 💡 Approach
-Used Union Find with path compression to detect the edge forming a cycle in the graph.
+Used Dijkstra’s Algorithm with an adjacency matrix to calculate shortest distances from the source node.
 
-- **Time Complexity:** Near O(1) amortized  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(n²)  
+- **Space Complexity:** O(n²)
 
 ---
 
