@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-37-brightgreen)
+![Progress](https://img.shields.io/badge/Day-38-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -63,10 +63,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 36 | Course Schedule II | LeetCode | Medium | Graphs, BFS, Topological Sort | Java | [View Code](Graph/CourseScheduleII.java) |
 | 37 | Pacific Atlantic Water Flow | LeetCode | Medium | Graphs, DFS, Multi-Score Traversal | Java | [View Code](Graph/PacificAtlanticWaterFlow.java) |
 | 38 | Redundant Connection | LeetCode | Medium | Graphs, Union Find (DSU) | Java | [View Code](Graph/RedundantConnection.java) |
+| 39 | Network Delay Time | LeetCode | Medium | Graphs, Dijkstra Algorithm | Java | [View Code](Graph/NetworkDelayTime.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
-![Medium](https://img.shields.io/badge/Medium-20-orange)
+![Medium](https://img.shields.io/badge/Medium-21-orange)
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
