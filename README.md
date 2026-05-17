@@ -64,11 +64,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 37 | Pacific Atlantic Water Flow | LeetCode | Medium | Graphs, DFS, Multi-Score Traversal | Java | [View Code](Graph/PacificAtlanticWaterFlow.java) |
 | 38 | Redundant Connection | LeetCode | Medium | Graphs, Union Find (DSU) | Java | [View Code](Graph/RedundantConnection.java) |
 | 39 | Network Delay Time | LeetCode | Medium | Graphs, Dijkstra Algorithm | Java | [View Code](Graph/NetworkDelayTime.java) |
+| 40 | Word Ladder | LeetCode | Hard | Graphs, BFS | Java | [View Code](Graph/WordLadder.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
 ![Medium](https://img.shields.io/badge/Medium-21-orange)
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-8-red)
 
 ---
 ## 📂 Repository Structure
