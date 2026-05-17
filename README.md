@@ -146,17 +146,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Network Delay Time  
+🧩 **Problem:** Word Ladder  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Graphs, Dijkstra Algorithm  
+⚙️ **Difficulty:** Hard  
+🧠 **Topic:** Graphs, BFS  
 
 ### 💡 Approach
-Used Dijkstra’s Algorithm with an adjacency matrix to calculate shortest distances from the source node.
+Used BFS to explore valid one-letter transformations level by level until reaching the target word.
 
-- **Time Complexity:** O(n²)  
-- **Space Complexity:** O(n²)
-
+- **Time Complexity:** O(N × L × 26)  
+- **Space Complexity:** O(N)
 ---
 
 ## 🔗 Connect with Me
