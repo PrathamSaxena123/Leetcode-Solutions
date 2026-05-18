@@ -65,11 +65,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 38 | Redundant Connection | LeetCode | Medium | Graphs, Union Find (DSU) | Java | [View Code](Graph/RedundantConnection.java) |
 | 39 | Network Delay Time | LeetCode | Medium | Graphs, Dijkstra Algorithm | Java | [View Code](Graph/NetworkDelayTime.java) |
 | 40 | Word Ladder | LeetCode | Hard | Graphs, BFS | Java | [View Code](Graph/WordLadder.java) |
+| 41 | Alien Dictionary | GeeksforGeeks | Hard | Graphs, Topological Sort, BFS | Java | [View Code](Graph/AlienDictionary.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-11-green)
 ![Medium](https://img.shields.io/badge/Medium-21-orange)
-![Hard](https://img.shields.io/badge/Hard-8-red)
+![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
 ## 📂 Repository Structure
