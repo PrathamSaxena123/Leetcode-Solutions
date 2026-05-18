@@ -148,16 +148,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Word Ladder  
-📚 **Platform:** LeetCode  
+🧩 **Problem:** Alien Dictionary  
+📚 **Platform:** GeeksforGeeks  
 ⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Graphs, BFS  
+🧠 **Topic:** Graphs, Topological Sort, BFS  
 
 ### 💡 Approach
-Used BFS to explore valid one-letter transformations level by level until reaching the target word.
+Built a graph from adjacent word comparisons and used Kahn’s Algorithm to generate a valid topological ordering.
 
-- **Time Complexity:** O(N × L × 26)  
-- **Space Complexity:** O(N)
+- **Time Complexity:** O(C + K²)  
+- **Space Complexity:** O(K²)
 ---
 
 ## 🔗 Connect with Me
