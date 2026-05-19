@@ -83,6 +83,8 @@ Leetcode-Solutions/
 │   ├── MergeSortedArray.java
 │   ├── TrappingRainWater.java
 │   └── ClosestEqualElementQueries.java
+├── DynamicProgramming/
+│   └── ClimbingStairs.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
