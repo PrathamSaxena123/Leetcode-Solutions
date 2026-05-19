@@ -151,16 +151,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Alien Dictionary  
-📚 **Platform:** GeeksforGeeks  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Graphs, Topological Sort, BFS  
+🧩 **Problem:** Climbing Stairs  
+📚 **Platform:** LeetCode  
+⚙️ **Difficulty:** Easy  
+🧠 **Topic:** Dynamic Programming  
 
 ### 💡 Approach
-Built a graph from adjacent word comparisons and used Kahn’s Algorithm to generate a valid topological ordering.
+Used bottom-up Dynamic Programming where each step depends on the previous two steps.
 
-- **Time Complexity:** O(C + K²)  
-- **Space Complexity:** O(K²)
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(n)
 ---
 
 ## 🔗 Connect with Me
