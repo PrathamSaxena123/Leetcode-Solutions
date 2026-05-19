@@ -66,9 +66,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 39 | Network Delay Time | LeetCode | Medium | Graphs, Dijkstra Algorithm | Java | [View Code](Graph/NetworkDelayTime.java) |
 | 40 | Word Ladder | LeetCode | Hard | Graphs, BFS | Java | [View Code](Graph/WordLadder.java) |
 | 41 | Alien Dictionary | GeeksforGeeks | Hard | Graphs, Topological Sort, BFS | Java | [View Code](Graph/AlienDictionary.java) |
+| 42 | Climbing Stairs | LeetCode | Easy | Dynamic Programming | Java | [View Code](DynamicProgramming/ClimbingStairs.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-11-green)
+![Easy](https://img.shields.io/badge/Easy-12-green)
 ![Medium](https://img.shields.io/badge/Medium-21-orange)
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
