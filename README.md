@@ -153,13 +153,13 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Climbing Stairs  
+🧩 **Problem:** Min Cost Climbing Stairs  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Easy  
 🧠 **Topic:** Dynamic Programming  
 
 ### 💡 Approach
-Used bottom-up Dynamic Programming where each step depends on the previous two steps.
+Used bottom-up Dynamic Programming to compute the minimum cost needed to reach each step.
 
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(n)
