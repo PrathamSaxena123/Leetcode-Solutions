@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-42-brightgreen)
+![Progress](https://img.shields.io/badge/Day-43-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -68,10 +68,11 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 41 | Alien Dictionary | GeeksforGeeks | Hard | Graphs, Topological Sort, BFS | Java | [View Code](Graph/AlienDictionary.java) |
 | 42 | Climbing Stairs | LeetCode | Easy | Dynamic Programming | Java | [View Code](DynamicProgramming/ClimbingStairs.java) |
 | 43 | Min Cost Climbing Stairs | LeetCode | Easy | Dynamic Programming | Java | [View Code](DynamicProgramming/MinCostClimbingStairs.java) |
+| 44 | House Robber | LeetCode | Medium | Dynamic Programming | Java | [View Code](DynamicProgramming/HouseRobber.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
-![Medium](https://img.shields.io/badge/Medium-21-orange)
+![Medium](https://img.shields.io/badge/Medium-22-orange)
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
@@ -86,7 +87,8 @@ Leetcode-Solutions/
 │   └── ClosestEqualElementQueries.java
 ├── DynamicProgramming/
 │   ├── ClimbingStairs.java
-│   └── MinCostClimbingStairs.java
+│   ├── MinCostClimbingStairs.java
+│   └── HouseRobber.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
