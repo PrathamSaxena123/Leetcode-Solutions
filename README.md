@@ -89,7 +89,8 @@ Leetcode-Solutions/
 ├── DynamicProgramming/
 │   ├── ClimbingStairs.java
 │   ├── MinCostClimbingStairs.java
-│   └── HouseRobber.java
+│   ├── HouseRobber.java
+│   └── UniquePaths.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
@@ -156,16 +157,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Min Cost Climbing Stairs  
+🧩 **Problem:** Unique Paths  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Easy  
-🧠 **Topic:** Dynamic Programming  
+⚙️ **Difficulty:** Medium  
+🧠 **Topic:** Dynamic Programming, Grid DP  
 
 ### 💡 Approach
-Used bottom-up Dynamic Programming to compute the minimum cost needed to reach each step.
+Used a 2D DP table where each cell stores the number of ways to reach it from the top-left corner.
 
-- **Time Complexity:** O(n)  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(m × n)  
+- **Space Complexity:** O(m × n)
 ---
 
 ## 🔗 Connect with Me
