@@ -74,7 +74,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
-![Medium](https://img.shields.io/badge/Medium-23-orange)
+![Medium](https://img.shields.io/badge/Medium-24-orange)
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
@@ -91,7 +91,8 @@ Leetcode-Solutions/
 │   ├── ClimbingStairs.java
 │   ├── MinCostClimbingStairs.java
 │   ├── HouseRobber.java
-│   └── UniquePaths.java
+│   ├── UniquePaths.java
+│   └── CoinChange.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
@@ -158,16 +159,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Unique Paths  
+🧩 **Problem:** Coin Change  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Dynamic Programming, Grid DP  
+🧠 **Topic:** Dynamic Programming  
 
 ### 💡 Approach
-Used a 2D DP table where each cell stores the number of ways to reach it from the top-left corner.
+Used bottom-up Dynamic Programming where each amount is built using previously solved smaller amounts.
 
-- **Time Complexity:** O(m × n)  
-- **Space Complexity:** O(m × n)
+- **Time Complexity:** O(amount × number of coins)  
+- **Space Complexity:** O(amount)
 ---
 
 ## 🔗 Connect with Me
