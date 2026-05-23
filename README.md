@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-44-brightgreen)
+![Progress](https://img.shields.io/badge/Day-45-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -70,6 +70,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 43 | Min Cost Climbing Stairs | LeetCode | Easy | Dynamic Programming | Java | [View Code](DynamicProgramming/MinCostClimbingStairs.java) |
 | 44 | House Robber | LeetCode | Medium | Dynamic Programming | Java | [View Code](DynamicProgramming/HouseRobber.java) |
 | 45 | Unique Paths | LeetCode | Medium | Dynamic Programming, Grid DP | Java | [View Code](DynamicProgramming/UniquePaths.java) |
+| 46 | Coin Change | LeetCode | Medium | Dynamic Programming | Java | [View Code](DynamicProgramming/CoinChange.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
