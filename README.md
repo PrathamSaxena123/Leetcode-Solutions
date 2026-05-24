@@ -93,7 +93,8 @@ Leetcode-Solutions/
 │   ├── MinCostClimbingStairs.java
 │   ├── HouseRobber.java
 │   ├── UniquePaths.java
-│   └── CoinChange.java
+│   ├── CoinChange.java
+│   └── LongestIncreasingSubsequence.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
@@ -160,16 +161,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Coin Change  
+🧩 **Problem:** Longest Increasing Subsequence  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
 🧠 **Topic:** Dynamic Programming  
 
 ### 💡 Approach
-Used bottom-up Dynamic Programming where each amount is built using previously solved smaller amounts.
+Used DP where each element extends the best increasing subsequence found among previous elements.
 
-- **Time Complexity:** O(amount × number of coins)  
-- **Space Complexity:** O(amount)
+- **Time Complexity:** O(n²)  
+- **Space Complexity:** O(n)
 ---
 
 ## 🔗 Connect with Me
