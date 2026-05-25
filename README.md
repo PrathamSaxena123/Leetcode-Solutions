@@ -163,16 +163,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Longest Increasing Subsequence  
+🧩 **Problem:** Longest Common Subsequence  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Dynamic Programming  
+🧠 **Topic:** Dynamic Programming, Strings  
 
 ### 💡 Approach
-Used DP where each element extends the best increasing subsequence found among previous elements.
+Used a 2D DP table to compare prefixes of both strings and build the longest common subsequence incrementally.
 
-- **Time Complexity:** O(n²)  
-- **Space Complexity:** O(n)
+- **Time Complexity:** O(n × m)  
+- **Space Complexity:** O(n × m)
 ---
 
 ## 🔗 Connect with Me
