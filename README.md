@@ -76,7 +76,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
-![Medium](https://img.shields.io/badge/Medium-25-orange)
+![Medium](https://img.shields.io/badge/Medium-26-orange)
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
@@ -95,7 +95,8 @@ Leetcode-Solutions/
 │   ├── HouseRobber.java
 │   ├── UniquePaths.java
 │   ├── CoinChange.java
-│   └── LongestIncreasingSubsequence.java
+│   ├── LongestIncreasingSubsequence.java
+│   └── LongestCommonSubsequence.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
