@@ -97,7 +97,8 @@ Leetcode-Solutions/
 │   ├── UniquePaths.java
 │   ├── CoinChange.java
 │   ├── LongestIncreasingSubsequence.java
-│   └── LongestCommonSubsequence.java
+│   ├── LongestCommonSubsequence.java
+│   └── PartitionEqualSubsetSum.java
 ├── Graph/
 │   ├── NumberOfIslands.java
 │   ├── FloodFill.java
