@@ -165,16 +165,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Longest Common Subsequence  
+🧩 **Problem:** Partition Equal Subset Sum  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Dynamic Programming, Strings  
+🧠 **Topic:** Dynamic Programming, Subset Sum  
 
 ### 💡 Approach
-Used a 2D DP table to compare prefixes of both strings and build the longest common subsequence incrementally.
+Converted the problem into a subset sum problem and used 2D DP to determine whether half of the total sum can be formed.
 
-- **Time Complexity:** O(n × m)  
-- **Space Complexity:** O(n × m)
+- **Time Complexity:** O(n × targetSum)  
+- **Space Complexity:** O(n × targetSum)
 ---
 
 ## 🔗 Connect with Me
