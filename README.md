@@ -167,16 +167,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Partition Equal Subset Sum  
+🧩 **Problem:** Edit Distance  
 📚 **Platform:** LeetCode  
 ⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Dynamic Programming, Subset Sum  
+🧠 **Topic:** Dynamic Programming, Strings  
 
 ### 💡 Approach
-Converted the problem into a subset sum problem and used 2D DP to determine whether half of the total sum can be formed.
+Used 2D Dynamic Programming to calculate the minimum insertions, deletions, and replacements required to transform one string into another.
 
-- **Time Complexity:** O(n × targetSum)  
-- **Space Complexity:** O(n × targetSum)
+- **Time Complexity:** O(n × m)  
+- **Space Complexity:** O(n × m)
 ---
 
 ## 🔗 Connect with Me
