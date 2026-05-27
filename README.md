@@ -74,6 +74,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 47 | Longest Increasing Subsequence | LeetCode | Medium | Dynamic Programming | Java | [View Code](DynamicProgramming/LongestIncreasingSubsequence.java) |
 | 48 | Longest Common Subsequence | LeetCode | Medium | Dynamic Programming, Strings | Java | [View Code](DynamicProgramming/LongestCommonSubsequence.java) |
 | 49 | Partition Equal Subset Sum | LeetCode | Medium | Dynamic Programming, Subset Sum | Java | [View Code](DynamicProgramming/PartitionEqualSubsetSum.java) |
+| 50 | Edit Distance | LeetCode | Medium | Dynamic Programming, Strings | Java | [View Code](DynamicProgramming/EditDistance.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
