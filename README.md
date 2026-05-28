@@ -75,11 +75,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 48 | Longest Common Subsequence | LeetCode | Medium | Dynamic Programming, Strings | Java | [View Code](DynamicProgramming/LongestCommonSubsequence.java) |
 | 49 | Partition Equal Subset Sum | LeetCode | Medium | Dynamic Programming, Subset Sum | Java | [View Code](DynamicProgramming/PartitionEqualSubsetSum.java) |
 | 50 | Edit Distance | LeetCode | Medium | Dynamic Programming, Strings | Java | [View Code](DynamicProgramming/EditDistance.java) |
+| 51 | Best Time to Buy and Sell Stock IV | LeetCode | Hard | Dynamic Programming | Java | [View Code](DynamicProgramming/BestTimeToBuyAndSellStockIV.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
-![Medium](https://img.shields.io/badge/Medium-27-orange)
-![Hard](https://img.shields.io/badge/Hard-9-red)
+![Medium](https://img.shields.io/badge/Medium-28-orange)
+![Hard](https://img.shields.io/badge/Hard-10-red)
 
 ---
 ## 📂 Repository Structure
