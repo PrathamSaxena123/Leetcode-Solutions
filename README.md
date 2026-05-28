@@ -169,16 +169,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Edit Distance  
+🧩 **Problem:** Best Time to Buy and Sell Stock IV  
 📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Medium  
-🧠 **Topic:** Dynamic Programming, Strings  
+⚙️ **Difficulty:** Hard  
+🧠 **Topic:** Dynamic Programming  
 
 ### 💡 Approach
-Used 2D Dynamic Programming to calculate the minimum insertions, deletions, and replacements required to transform one string into another.
+Used optimized Dynamic Programming with buy/sell states to track maximum profit across at most k transactions.
 
-- **Time Complexity:** O(n × m)  
-- **Space Complexity:** O(n × m)
+- **Time Complexity:** O(n × k)  
+- **Space Complexity:** O(k)
 ---
 
 ## 🔗 Connect with Me
