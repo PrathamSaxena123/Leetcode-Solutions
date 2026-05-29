@@ -172,16 +172,17 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 **Problem:** Best Time to Buy and Sell Stock IV  
-📚 **Platform:** LeetCode  
-⚙️ **Difficulty:** Hard  
-🧠 **Topic:** Dynamic Programming  
+🧩 Problem: Assign Cookies
+📚 Platform: LeetCode
+⚙️ Difficulty: Easy
+🧠 Topic: Greedy, Sorting
 
 ### 💡 Approach
-Used optimized Dynamic Programming with buy/sell states to track maximum profit across at most k transactions.
 
-- **Time Complexity:** O(n × k)  
-- **Space Complexity:** O(k)
+Sort both arrays and greedily assign the smallest cookie that can satisfy the current child.
+
+- Time Complexity: O(n log n + m log m)
+- Space Complexity: O(1)
 ---
 
 ## 🔗 Connect with Me
