@@ -76,6 +76,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 49 | Partition Equal Subset Sum | LeetCode | Medium | Dynamic Programming, Subset Sum | Java | [View Code](DynamicProgramming/PartitionEqualSubsetSum.java) |
 | 50 | Edit Distance | LeetCode | Medium | Dynamic Programming, Strings | Java | [View Code](DynamicProgramming/EditDistance.java) |
 | 51 | Best Time to Buy and Sell Stock IV | LeetCode | Hard | Dynamic Programming | Java | [View Code](DynamicProgramming/BestTimeToBuyAndSellStockIV.java) |
+| 52 | Assign Cookies | LeetCode | Easy | Greedy, Sorting, Two Pointers | Java | [View Code](GreedyAlgorithms/AssignCookies.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-13-green)
