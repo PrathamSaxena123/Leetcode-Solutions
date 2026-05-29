@@ -79,7 +79,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 52 | Assign Cookies | LeetCode | Easy | Greedy, Sorting, Two Pointers | Java | [View Code](GreedyAlgorithms/AssignCookies.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-13-green)
+![Easy](https://img.shields.io/badge/Easy-14-green)
 ![Medium](https://img.shields.io/badge/Medium-28-orange)
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
