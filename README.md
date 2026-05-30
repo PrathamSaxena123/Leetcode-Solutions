@@ -80,7 +80,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 53 | Lemonade Change | LeetCode | Easy | Greedy | Java | [View Code](GreedyAlgorithms/LemonadeChange.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-14-green)
+![Easy](https://img.shields.io/badge/Easy-15-green)
 ![Medium](https://img.shields.io/badge/Medium-28-orange)
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
