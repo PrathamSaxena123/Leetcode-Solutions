@@ -174,16 +174,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Assign Cookies
+🧩 Problem: Lemonade Change
 📚 Platform: LeetCode
 ⚙️ Difficulty: Easy
-🧠 Topic: Greedy, Sorting
+🧠 Topic: Greedy
 
 ### 💡 Approach
 
-Sort both arrays and greedily assign the smallest cookie that can satisfy the current child.
+Maintain counts of $5 and $10 bills and always choose the change-giving strategy that preserves the most future flexibility.
 
-- Time Complexity: O(n log n + m log m)
+- Time Complexity: O(n)
 - Space Complexity: O(1)
 ---
 
