@@ -78,9 +78,10 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 51 | Best Time to Buy and Sell Stock IV | LeetCode | Hard | Dynamic Programming | Java | [View Code](DynamicProgramming/BestTimeToBuyAndSellStockIV.java) |
 | 52 | Assign Cookies | LeetCode | Easy | Greedy, Sorting, Two Pointers | Java | [View Code](GreedyAlgorithms/AssignCookies.java) |
 | 53 | Lemonade Change | LeetCode | Easy | Greedy | Java | [View Code](GreedyAlgorithms/LemonadeChange.java) |
+| 54 | Longest Palindrome | LeetCode | Easy | Greedy, HashSet | Java | [View Code](GreedyAlgorithms/LongestPalindrome.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-15-green)
+![Easy](https://img.shields.io/badge/Easy-1-green)
 ![Medium](https://img.shields.io/badge/Medium-28-orange)
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
