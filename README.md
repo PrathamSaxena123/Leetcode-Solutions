@@ -176,17 +176,18 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Lemonade Change
+🧩 Problem: Longest Palindrome
 📚 Platform: LeetCode
 ⚙️ Difficulty: Easy
-🧠 Topic: Greedy
+🧠 Topic: Greedy, HashSet
 
 ### 💡 Approach
 
-Maintain counts of $5 and $10 bills and always choose the change-giving strategy that preserves the most future flexibility.
+Pair identical characters whenever possible.
+Any remaining unpaired character can be used as the center of the palindrome.
 
 - Time Complexity: O(n)
-- Space Complexity: O(1)
+- Space Complexity: O(k)
 ---
 
 ## 🔗 Connect with Me
