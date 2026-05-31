@@ -81,7 +81,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 54 | Longest Palindrome | LeetCode | Easy | Greedy, HashSet | Java | [View Code](GreedyAlgorithms/LongestPalindrome.java) |
 
 
-![Easy](https://img.shields.io/badge/Easy-1-green)
+![Easy](https://img.shields.io/badge/Easy-16-green)
 ![Medium](https://img.shields.io/badge/Medium-28-orange)
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
