@@ -180,18 +180,22 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Longest Palindrome
+🧩 Problem: Best Time to Buy and Sell Stock II
 📚 Platform: LeetCode
-⚙️ Difficulty: Easy
-🧠 Topic: Greedy, HashSet
+⚙️ Difficulty: Medium
+🧠 Topic: Greedy
 
 ### 💡 Approach
 
-Pair identical characters whenever possible.
-Any remaining unpaired character can be used as the center of the palindrome.
+Accumulate every positive price difference.
+
+If today's price is greater than yesterday's price,
+take the profit immediately.
+
+This guarantees the maximum possible profit.
 
 - Time Complexity: O(n)
-- Space Complexity: O(k)
+- Space Complexity: O(1)
 ---
 
 ## 🔗 Connect with Me
