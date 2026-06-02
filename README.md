@@ -80,6 +80,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 53 | Lemonade Change | LeetCode | Easy | Greedy | Java | [View Code](GreedyAlgorithms/LemonadeChange.java) |
 | 54 | Longest Palindrome | LeetCode | Easy | Greedy, HashSet | Java | [View Code](GreedyAlgorithms/LongestPalindrome.java) |
 | 55 | Maximum Subarray | LeetCode | Medium | Greedy, Kadane's Algorithm | Java | [View Code](GreedyAlgorithms/MaximumSubarray.java) |
+| 56 | Best Time to Buy and Sell Stock II | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/BestTimeToBuyAndSellStockII.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-16-green)
