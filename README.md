@@ -125,7 +125,8 @@ Leetcode-Solutions/
 │   ├── LemonadeChange.java
 │   ├── LongestPalindrome.java
 │   ├── MaximumSubarray.java
-│   └── BestTimeToBuyAndSellStockII.java
+│   ├── BestTimeToBuyAndSellStockII.java
+│   └── JumpGame.java
 ├── LinkedList/
 │   ├── RemoveNthNodeFromEnd.java
 │   └── ReverseLinkedList.java
