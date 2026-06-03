@@ -182,19 +182,16 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Best Time to Buy and Sell Stock II
+🧩 Problem: Jump Game
 📚 Platform: LeetCode
 ⚙️ Difficulty: Medium
 🧠 Topic: Greedy
 
 ### 💡 Approach
 
-Accumulate every positive price difference.
+Maintain the furthest index reachable so far.
 
-If today's price is greater than yesterday's price,
-take the profit immediately.
-
-This guarantees the maximum possible profit.
+If at any point the current index becomes greater than the reachable range, reaching the end is impossible.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
