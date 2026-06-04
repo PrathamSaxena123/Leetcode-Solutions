@@ -183,16 +183,17 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Jump Game
+🧩 Problem: Gas Station
 📚 Platform: LeetCode
 ⚙️ Difficulty: Medium
 🧠 Topic: Greedy
 
 ### 💡 Approach
 
-Maintain the furthest index reachable so far.
+If starting from station A cannot reach station B,
+then every station between A and B is also invalid.
 
-If at any point the current index becomes greater than the reachable range, reaching the end is impossible.
+Use this observation to eliminate candidates in one pass.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
