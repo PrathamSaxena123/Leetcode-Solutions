@@ -85,7 +85,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 ![Easy](https://img.shields.io/badge/Easy-16-green)
-![Medium](https://img.shields.io/badge/Medium-30-orange)
+![Medium](https://img.shields.io/badge/Medium-31-orange)
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
 ---
