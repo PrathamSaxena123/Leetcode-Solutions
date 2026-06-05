@@ -185,19 +185,20 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Gas Station
+🧩 Problem: Non-overlapping Intervals
 📚 Platform: LeetCode
 ⚙️ Difficulty: Medium
-🧠 Topic: Greedy
+🧠 Topic: Greedy, Interval Scheduling
 
 ### 💡 Approach
 
-If starting from station A cannot reach station B,
-then every station between A and B is also invalid.
+Sort intervals by ending time.
 
-Use this observation to eliminate candidates in one pass.
+Always keep the interval that finishes earliest because it leaves the most room for future intervals.
 
-- Time Complexity: O(n)
+If an interval overlaps, remove it.
+
+- Time Complexity: O(n log n)
 - Space Complexity: O(1)
 ---
 
