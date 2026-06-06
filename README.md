@@ -187,20 +187,20 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Non-overlapping Intervals
+🧩 Problem: Jump Game II
 📚 Platform: LeetCode
 ⚙️ Difficulty: Medium
-🧠 Topic: Greedy, Interval Scheduling
+🧠 Topic: Greedy
 
 ### 💡 Approach
 
-Sort intervals by ending time.
+Treat each jump as a range.
 
-Always keep the interval that finishes earliest because it leaves the most room for future intervals.
+Keep expanding the furthest reachable position while traversing the current range.
 
-If an interval overlaps, remove it.
+When the current range ends, take a jump and move to the next range.
 
-- Time Complexity: O(n log n)
+- Time Complexity: O(n)
 - Space Complexity: O(1)
 ---
 
