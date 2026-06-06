@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-58-brightgreen)
+![Progress](https://img.shields.io/badge/Day-59-brightgreen)
 
 Daily DSA Solutions in Java!
 
