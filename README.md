@@ -83,7 +83,8 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 56 | Best Time to Buy and Sell Stock II | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/BestTimeToBuyAndSellStockII.java) |
 | 57 | Jump Game | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/JumpGame.java) |
 | 58 | Gas Station | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/GasStation.java) |
-| 59 | Non-overlapping Intervals | LeetCode | Medium | Greedy, Intervals | Java | [View Code](GreedyAlgorithms/NonOverlappingIntervals.java) |
+| 60 | Non-overlapping Intervals | LeetCode | Medium | Greedy, Intervals | Java | [View Code](GreedyAlgorithms/NonOverlappingIntervals.java) |
+
 
 
 ![Easy](https://img.shields.io/badge/Easy-16-green)
