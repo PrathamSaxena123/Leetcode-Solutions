@@ -193,21 +193,21 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Jump Game II
+🧩 Problem: Binary Watch
 📚 Platform: LeetCode
-⚙️ Difficulty: Medium
-🧠 Topic: Greedy
+⚙️ Difficulty: Easy
+🧠 Topic: Bit Manipulation
 
 ### 💡 Approach
 
-Treat each jump as a range.
+Check every valid hour and minute.
 
-Keep expanding the furthest reachable position while traversing the current range.
+Use Integer.bitCount() to count the number of LEDs turned on.
 
-When the current range ends, take a jump and move to the next range.
+Add the time if the LED count matches the given input.
 
-- Time Complexity: O(n)
-- Space Complexity: O(1)
+- Time Complexity: O(1)
+- Space Complexity: O(k)
 ---
 
 ## 🔗 Connect with Me
