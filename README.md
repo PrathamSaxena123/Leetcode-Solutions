@@ -84,12 +84,13 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 57 | Jump Game | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/JumpGame.java) |
 | 58 | Gas Station | LeetCode | Medium | Greedy | Java | [View Code](GreedyAlgorithms/GasStation.java) |
 | 60 | Non-overlapping Intervals | LeetCode | Medium | Greedy, Intervals | Java | [View Code](GreedyAlgorithms/NonOverlappingIntervals.java) |
+| 61 | Candy | LeetCode | Hard | Greedy | Java | [View Code](GreedyAlgorithms/Candy.java) |
 
 
 
 ![Easy](https://img.shields.io/badge/Easy-17-green)
 ![Medium](https://img.shields.io/badge/Medium-32-orange)
-![Hard](https://img.shields.io/badge/Hard-10-red)
+![Hard](https://img.shields.io/badge/Hard-11-red)
 
 ---
 ## 📂 Repository Structure
