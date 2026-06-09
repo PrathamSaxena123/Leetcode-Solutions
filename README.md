@@ -86,6 +86,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 60 | Non-overlapping Intervals | LeetCode | Medium | Greedy, Intervals | Java | [View Code](GreedyAlgorithms/NonOverlappingIntervals.java) |
 | 61 | Candy | LeetCode | Hard | Greedy | Java | [View Code](GreedyAlgorithms/Candy.java) |
 | 62 | Binary Watch | LeetCode | Easy | Bit Manipulation | Java | [View Code](BitManipulation/BinaryWatch.java) |
+| 63 | Sum of All Subset XOR Totals | LeetCode | Easy | Backtracking | Java | [View Code](Backtracking/SumOfAllSubsetXORTotals.java) |
 
 
 
