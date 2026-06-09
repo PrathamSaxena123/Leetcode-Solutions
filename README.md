@@ -105,7 +105,8 @@ Leetcode-Solutions/
 │   ├── TrappingRainWater.java
 │   └── ClosestEqualElementQueries.java
 ├── Backtracking/
-│   └── BinaryWatch.java
+│   ├── BinaryWatch.java
+│   └── SumOfAllSubsetXORTotals.java
 ├── DynamicProgramming/
 │   ├── ClimbingStairs.java
 │   ├── MinCostClimbingStairs.java
