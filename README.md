@@ -195,21 +195,22 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Binary Watch
+🧩 Problem: Sum of All Subset XOR Totals
 📚 Platform: LeetCode
 ⚙️ Difficulty: Easy
-🧠 Topic: Bit Manipulation
+🧠 Topic: Backtracking
 
 ### 💡 Approach
 
-Check every valid hour and minute.
+For every element:
 
-Use Integer.bitCount() to count the number of LEDs turned on.
+- Include it in the subset
+- Exclude it from the subset
 
-Add the time if the LED count matches the given input.
+Recursively explore both possibilities and sum the XOR values of all completed subsets.
 
-- Time Complexity: O(1)
-- Space Complexity: O(k)
+- Time Complexity: O(2ⁿ)
+- Space Complexity: O(n)
 ---
 
 ## 🔗 Connect with Me
