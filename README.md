@@ -201,21 +201,22 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Sum of All Subset XOR Totals
-📚 Platform: LeetCode
-⚙️ Difficulty: Easy
+🧩 Problem: Permutations
+📚 Platform: LeetCode (#46)
+⚙️ Difficulty: Medium
 🧠 Topic: Backtracking
 
 ### 💡 Approach
 
-For every element:
+Build permutations recursively.
 
-- Include it in the subset
-- Exclude it from the subset
+At each step:
+- Pick an unused element.
+- Add it to the current permutation.
+- Recurse.
+- Backtrack by removing it and marking it unused.
 
-Recursively explore both possibilities and sum the XOR values of all completed subsets.
-
-- Time Complexity: O(2ⁿ)
+- Time Complexity: O(n × n!)
 - Space Complexity: O(n)
 ---
 
