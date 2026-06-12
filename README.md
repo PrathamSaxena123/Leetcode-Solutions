@@ -87,6 +87,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 61 | Candy | LeetCode | Hard | Greedy | Java | [View Code](GreedyAlgorithms/Candy.java) |
 | 62 | Binary Watch | LeetCode | Easy | Bit Manipulation | Java | [View Code](BitManipulation/BinaryWatch.java) |
 | 63 | Sum of All Subset XOR Totals | LeetCode | Easy | Backtracking | Java | [View Code](Backtracking/SumOfAllSubsetXORTotals.java) |
+| 64 | All Paths From Source To Target | LeetCode | Medium | Backtracking, DFS | Java | [View Code](Backtracking/AllPathsFromSourceToTarget.java) |
 
 
 
