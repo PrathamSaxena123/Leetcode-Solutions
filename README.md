@@ -109,7 +109,10 @@ Leetcode-Solutions/
 │   └── ClosestEqualElementQueries.java
 ├── Backtracking/
 │   ├── BinaryWatch.java
-│   └── SumOfAllSubsetXORTotals.java
+│   ├── SumOfAllSubsetXORTotals.java
+│   ├── AllPathsFromSourceToTarget.java
+│   ├── Subsets.java
+│   └── Permutations.java
 ├── DynamicProgramming/
 │   ├── ClimbingStairs.java
 │   ├── MinCostClimbingStairs.java
