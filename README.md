@@ -88,11 +88,12 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 62 | Binary Watch | LeetCode | Easy | Bit Manipulation | Java | [View Code](BitManipulation/BinaryWatch.java) |
 | 63 | Sum of All Subset XOR Totals | LeetCode | Easy | Backtracking | Java | [View Code](Backtracking/SumOfAllSubsetXORTotals.java) |
 | 64 | All Paths From Source To Target | LeetCode | Medium | Backtracking, DFS | Java | [View Code](Backtracking/AllPathsFromSourceToTarget.java) |
+| 65 | Subsets | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/Subsets.java) |
 
 
 
 ![Easy](https://img.shields.io/badge/Easy-19-green)
-![Medium](https://img.shields.io/badge/Medium-33-orange)
+![Medium](https://img.shields.io/badge/Medium-34-orange)
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
 ---
