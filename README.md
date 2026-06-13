@@ -203,23 +203,21 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Permutations
-📚 Platform: LeetCode (#46)
-⚙️ Difficulty: Medium
+🧩 Problem: Combination Sum  
+📚 Platform: LeetCode (#39)  
+⚙️ Difficulty: Medium  
 🧠 Topic: Backtracking
 
 ### 💡 Approach
 
-Build permutations recursively.
+Use recursion to build combinations while tracking the remaining target.
 
-At each step:
-- Pick an unused element.
-- Add it to the current permutation.
-- Recurse.
-- Backtrack by removing it and marking it unused.
+- Reuse elements by continuing from the same index.
+- Stop when the target becomes 0.
+- Prune the search when the target becomes negative.
 
-- Time Complexity: O(n × n!)
-- Space Complexity: O(n)
+- Time Complexity: Exponential
+- Space Complexity: O(target) excluding output
 ---
 
 ## 🔗 Connect with Me
