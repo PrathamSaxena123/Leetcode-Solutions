@@ -205,21 +205,22 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Combination Sum  
-📚 Platform: LeetCode (#39)  
-⚙️ Difficulty: Medium  
-🧠 Topic: Backtracking
+🧩 Problem: Word Search
+📚 Platform: LeetCode (#79)
+⚙️ Difficulty: Medium
+🧠 Topic: Backtracking, DFS
 
 ### 💡 Approach
 
-Use recursion to build combinations while tracking the remaining target.
+Start DFS from every cell in the grid.
 
-- Reuse elements by continuing from the same index.
-- Stop when the target becomes 0.
-- Prune the search when the target becomes negative.
+- Match the current character.
+- Mark the cell as visited.
+- Explore up, down, left, and right.
+- Restore the cell while backtracking.
 
-- Time Complexity: Exponential
-- Space Complexity: O(target) excluding output
+- Time Complexity: O(m × n × 4ᴸ)
+- Space Complexity: O(L)
 ---
 
 ## 🔗 Connect with Me
