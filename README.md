@@ -115,7 +115,8 @@ Leetcode-Solutions/
 │   ├── AllPathsFromSourceToTarget.java
 │   ├── Subsets.java
 │   ├── Permutations.java
-│   └── CombinationSum.java
+│   ├── CombinationSum.java
+│   └── WordSearch.java
 ├── DynamicProgramming/
 │   ├── ClimbingStairs.java
 │   ├── MinCostClimbingStairs.java
