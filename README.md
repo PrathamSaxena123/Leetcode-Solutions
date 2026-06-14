@@ -91,6 +91,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 65 | Subsets | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/Subsets.java) |
 | 66 | Permutations | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/Permutations.java) |
 | 67 | Combination Sum | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/CombinationSum.java) |
+| 68 | Word Search | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/WordSearch.java) |
 
 
 
