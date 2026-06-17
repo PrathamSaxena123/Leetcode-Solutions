@@ -211,22 +211,20 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Word Search
-📚 Platform: LeetCode (#79)
-⚙️ Difficulty: Medium
-🧠 Topic: Backtracking, DFS
+🧩 Problem: Word Ladder II  
+📚 Platform: LeetCode (#126)  
+⚙️ Difficulty: Hard  
+🧠 Topic: BFS + Backtracking (DFS)
 
 ### 💡 Approach
 
-Start DFS from every cell in the grid.
+1. Run BFS to compute the shortest distance to each word.
+2. Store all predecessors that belong to shortest paths.
+3. Use DFS to backtrack from `endWord` to `beginWord`.
+4. Collect every shortest transformation sequence.
 
-- Match the current character.
-- Mark the cell as visited.
-- Explore up, down, left, and right.
-- Restore the cell while backtracking.
-
-- Time Complexity: O(m × n × 4ᴸ)
-- Space Complexity: O(L)
+- Time Complexity: O(N × L × 26 + Output Size)
+- Space Complexity: O(N × L)
 ---
 
 ## 🔗 Connect with Me
