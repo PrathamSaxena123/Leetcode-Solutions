@@ -94,12 +94,13 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 68 | Word Search | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/WordSearch.java) |
 | 69 | N-Queens | LeetCode | Hard | Backtracking | Java | [View Code](Backtracking/NQueens.java) |
 | 70 | Sudoku Solver | LeetCode | Hard | Backtracking | Java | [View Code](Backtracking/SudokuSolver.java) |
+| 71 | Word Ladder II | LeetCode | Hard | Backtracking, BFS, DFS | Java | [View Code](Backtracking/WordLadderII.java) |
 
 
 
 ![Easy](https://img.shields.io/badge/Easy-19-green)
 ![Medium](https://img.shields.io/badge/Medium-37-orange)
-![Hard](https://img.shields.io/badge/Hard-13-red)
+![Hard](https://img.shields.io/badge/Hard-14-red)
 
 ---
 ## 📂 Repository Structure
