@@ -92,12 +92,13 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 66 | Permutations | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/Permutations.java) |
 | 67 | Combination Sum | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/CombinationSum.java) |
 | 68 | Word Search | LeetCode | Medium | Backtracking | Java | [View Code](Backtracking/WordSearch.java) |
+| 69 | N-Queens | LeetCode | Hard | Backtracking | Java | [View Code](Backtracking/NQueens.java) |
 
 
 
 ![Easy](https://img.shields.io/badge/Easy-19-green)
 ![Medium](https://img.shields.io/badge/Medium-37-orange)
-![Hard](https://img.shields.io/badge/Hard-11-red)
+![Hard](https://img.shields.io/badge/Hard-12-red)
 
 ---
 ## 📂 Repository Structure
