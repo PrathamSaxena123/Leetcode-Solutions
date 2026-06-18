@@ -112,7 +112,8 @@ Leetcode-Solutions/
 │   ├── MinimumDistanceToTargetElement.java
 │   ├── MergeSortedArray.java
 │   ├── TrappingRainWater.java
-│   └── ClosestEqualElementQueries.java
+│   ├── ClosestEqualElementQueries.java
+│   └── FindAllAnagramsInAString.java
 ├── Backtracking/
 │   ├── BinaryWatch.java
 │   ├── SumOfAllSubsetXORTotals.java
