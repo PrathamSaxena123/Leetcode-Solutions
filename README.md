@@ -213,20 +213,22 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Word Ladder II  
-📚 Platform: LeetCode (#126)  
-⚙️ Difficulty: Hard  
-🧠 Topic: BFS + Backtracking (DFS)
+🧩 Problem: Find All Anagrams in a String
+📚 Platform: LeetCode (#438)
+⚙️ Difficulty: Medium
+🧠 Topic: Sliding Window
 
 ### 💡 Approach
 
-1. Run BFS to compute the shortest distance to each word.
-2. Store all predecessors that belong to shortest paths.
-3. Use DFS to backtrack from `endWord` to `beginWord`.
-4. Collect every shortest transformation sequence.
+Use two frequency arrays:
 
-- Time Complexity: O(N × L × 26 + Output Size)
-- Space Complexity: O(N × L)
+- Count characters in the pattern.
+- Count characters in the current window.
+- Slide the window one character at a time.
+- Compare counts to detect anagrams.
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
 ---
 
 ## 🔗 Connect with Me
