@@ -96,6 +96,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 70 | Sudoku Solver | LeetCode | Hard | Backtracking | Java | [View Code](Backtracking/SudokuSolver.java) |
 | 71 | Word Ladder II | LeetCode | Hard | Backtracking, BFS, DFS | Java | [View Code](Backtracking/WordLadderII.java) |
 | 72 | Find All Anagrams in a String | LeetCode | Medium | Sliding Window | Java | [View Code](Arrays/FindAllAnagramsInAString.java) |
+| 73 | Median of Two Sorted Arrays | LeetCode | Hard | Binary Search | Java | [View Code](Arrays/MedianOfTwoSortedArrays.java) |
 
 
 
