@@ -215,21 +215,19 @@ Leetcode-Solutions/
 
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Find All Anagrams in a String
-📚 Platform: LeetCode (#438)
-⚙️ Difficulty: Medium
-🧠 Topic: Sliding Window
+🧩 Problem: Median of Two Sorted Arrays
+📚 Platform: LeetCode (#4)
+⚙️ Difficulty: Hard
+🧠 Topic: Binary Search
 
 ### 💡 Approach
 
-Use two frequency arrays:
+- Binary search on the smaller array.
+- Partition both arrays into left and right halves.
+- Ensure all left elements are ≤ all right elements.
+- Compute the median based on total length parity.
 
-- Count characters in the pattern.
-- Count characters in the current window.
-- Slide the window one character at a time.
-- Compare counts to detect anagrams.
-
-- Time Complexity: O(n)
+- Time Complexity: O(log(min(m, n)))
 - Space Complexity: O(1)
 ---
 
