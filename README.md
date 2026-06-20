@@ -214,22 +214,21 @@ Leetcode-Solutions/
 - Binary Search
 
 ---
-
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Median of Two Sorted Arrays
-📚 Platform: LeetCode (#4)
-⚙️ Difficulty: Hard
-🧠 Topic: Binary Search
+🧩 Problem: Maximum Sum Circular Subarray
+📚 Platform: LeetCode (#918)
+⚙️ Difficulty: Medium
+🧠 Topic: Kadane's Algorithm
 
 ### 💡 Approach
 
-- Binary search on the smaller array.
-- Partition both arrays into left and right halves.
-- Ensure all left elements are ≤ all right elements.
-- Compute the median based on total length parity.
+- Compute the normal maximum subarray using Kadane's Algorithm.
+- Compute the minimum subarray in the same traversal.
+- The circular answer is `totalSum - minSum`.
+- Handle the all-negative case separately.
 
-- Time Complexity: O(log(min(m, n)))
+- Time Complexity: O(n)
 - Space Complexity: O(1)
 ---
 
