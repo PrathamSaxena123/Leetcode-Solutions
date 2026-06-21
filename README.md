@@ -217,17 +217,17 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Maximum Sum Circular Subarray
-📚 Platform: LeetCode (#918)
+🧩 Problem: Container With Most Water
+📚 Platform: LeetCode (#11)
 ⚙️ Difficulty: Medium
-🧠 Topic: Kadane's Algorithm
+🧠 Topic: Two Pointers
 
 ### 💡 Approach
 
-- Compute the normal maximum subarray using Kadane's Algorithm.
-- Compute the minimum subarray in the same traversal.
-- The circular answer is `totalSum - minSum`.
-- Handle the all-negative case separately.
+- Place one pointer at each end of the array.
+- Compute the current area using width × minimum height.
+- Keep track of the maximum area.
+- Move the pointer pointing to the shorter line inward.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
