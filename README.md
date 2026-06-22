@@ -219,17 +219,17 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Container With Most Water
-📚 Platform: LeetCode (#11)
-⚙️ Difficulty: Medium
-🧠 Topic: Two Pointers
+🧩 Problem: Minimum Window Substring
+📚 Platform: LeetCode (#76)
+⚙️ Difficulty: Hard
+🧠 Topic: Sliding Window
 
 ### 💡 Approach
 
-- Place one pointer at each end of the array.
-- Compute the current area using width × minimum height.
-- Keep track of the maximum area.
-- Move the pointer pointing to the shorter line inward.
+- Store required character frequencies from `t`.
+- Expand the right pointer until all required characters are covered.
+- Shrink the left pointer while maintaining validity.
+- Record the smallest valid window.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
