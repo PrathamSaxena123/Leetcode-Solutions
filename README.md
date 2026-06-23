@@ -221,19 +221,20 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Minimum Window Substring
-📚 Platform: LeetCode (#76)
-⚙️ Difficulty: Hard
-🧠 Topic: Sliding Window
+🧩 Problem: Merge Two Sorted Lists
+📚 Platform: LeetCode (#21)
+⚙️ Difficulty: Easy
+🧠 Topic: Linked List
 
 ### 💡 Approach
 
-- Store required character frequencies from `t`.
-- Expand the right pointer until all required characters are covered.
-- Shrink the left pointer while maintaining validity.
-- Record the smallest valid window.
+- Create a dummy node.
+- Compare the heads of both lists.
+- Append the smaller node to the merged list.
+- Continue until one list is exhausted.
+- Attach the remaining nodes.
 
-- Time Complexity: O(n)
+- Time Complexity: O(n + m)
 - Space Complexity: O(1)
 ---
 
