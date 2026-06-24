@@ -101,6 +101,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 75 | Container With Most Water | LeetCode | Medium | Two Pointers | Java | [View Code](Arrays/ContainerWithMostWater.java) |
 | 76 | Minimum Window Substring | LeetCode | Hard | Sliding Window | Java | [View Code](Arrays/MinimumWindowSubstring.java) |
 | 77 | Merge Two Sorted Lists | LeetCode | Easy | Linked List | Java | [View Code](LinkedList/MergeTwoSortedLists.java) |
+| 78 | Linked List Cycle | LeetCode | Easy | Linked List, Two Pointers | Java | [View Code](LinkedList/LinkedListCycle.java) |
 
 
 
