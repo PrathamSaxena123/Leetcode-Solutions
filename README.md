@@ -224,20 +224,19 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Merge Two Sorted Lists
-📚 Platform: LeetCode (#21)
+🧩 Problem: Linked List Cycle
+📚 Platform: LeetCode (#141)
 ⚙️ Difficulty: Easy
-🧠 Topic: Linked List
+🧠 Topic: Linked List, Two Pointers
 
 ### 💡 Approach
 
-- Create a dummy node.
-- Compare the heads of both lists.
-- Append the smaller node to the merged list.
-- Continue until one list is exhausted.
-- Attach the remaining nodes.
+- Initialize two pointers: slow and fast.
+- Move slow by one node and fast by two nodes.
+- If they ever meet, a cycle exists.
+- If fast reaches null, there is no cycle.
 
-- Time Complexity: O(n + m)
+- Time Complexity: O(n)
 - Space Complexity: O(1)
 ---
 
