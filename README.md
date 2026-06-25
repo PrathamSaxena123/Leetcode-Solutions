@@ -225,17 +225,17 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Linked List Cycle
-📚 Platform: LeetCode (#141)
+🧩 Problem: Remove Duplicates from Sorted List
+📚 Platform: LeetCode (#83)
 ⚙️ Difficulty: Easy
-🧠 Topic: Linked List, Two Pointers
+🧠 Topic: Linked List
 
 ### 💡 Approach
 
-- Initialize two pointers: slow and fast.
-- Move slow by one node and fast by two nodes.
-- If they ever meet, a cycle exists.
-- If fast reaches null, there is no cycle.
+- Traverse the sorted linked list with one pointer.
+- If two consecutive nodes have the same value, skip the duplicate.
+- Otherwise, move to the next node.
+- Continue until the end of the list.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
