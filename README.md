@@ -173,7 +173,8 @@ Leetcode-Solutions/
 │   ├── RemoveNthNodeFromEnd.java
 │   ├── ReverseLinkedList.java
 │   ├── MergeTwoSortedLists.java
-│   └── LinkedListCycle.java
+│   ├── LinkedListCycle.java
+│   └── RemoveDuplicatesFromSortedList.java
 ├── Queue/
 │   ├── ImplementQueueUsingStacks.java
 │   ├── SlidingWindowMaximum.java
