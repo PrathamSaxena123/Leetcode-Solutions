@@ -228,20 +228,21 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Remove Duplicates from Sorted List
-📚 Platform: LeetCode (#83)
-⚙️ Difficulty: Easy
-🧠 Topic: Linked List
+🧩 Problem: LRU Cache
+📚 Platform: LeetCode (#146)
+⚙️ Difficulty: Medium
+🧠 Topic: Linked List, HashMap, Design
 
 ### 💡 Approach
 
-- Traverse the sorted linked list with one pointer.
-- If two consecutive nodes have the same value, skip the duplicate.
-- Otherwise, move to the next node.
-- Continue until the end of the list.
+- Store key-node mappings in a HashMap.
+- Maintain usage order using a Doubly Linked List.
+- Move accessed nodes to the front.
+- Remove the least recently used node from the tail when the cache is full.
 
-- Time Complexity: O(n)
-- Space Complexity: O(1)
+- get(): O(1)
+- put(): O(1)
+- Space Complexity: O(capacity)
 ---
 
 ## 🔗 Connect with Me
