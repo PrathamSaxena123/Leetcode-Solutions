@@ -104,6 +104,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 78 | Linked List Cycle | LeetCode | Easy | Linked List, Two Pointers | Java | [View Code](LinkedList/LinkedListCycle.java) |
 | 79 | Remove Duplicates from Sorted List | LeetCode | Easy | Linked List | Java | [View Code](LinkedList/RemoveDuplicatesFromSortedList.java) |
 | 80 | Linked List Cycle II | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/LinkedListCycleII.java) |
+| 81 | LRU Cache | LeetCode | Medium | Linked List, HashMap, Design | Java | [View Code](LinkedList/LRUCache.java) |
 
 
 
