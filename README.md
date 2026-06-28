@@ -232,21 +232,21 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: LRU Cache
-📚 Platform: LeetCode (#146)
-⚙️ Difficulty: Medium
-🧠 Topic: Linked List, HashMap, Design
+🧩 Problem: Merge K Sorted Lists
+📚 Platform: LeetCode (#23)
+⚙️ Difficulty: Hard
+🧠 Topic: Linked List, Heap (Priority Queue)
 
 ### 💡 Approach
 
-- Store key-node mappings in a HashMap.
-- Maintain usage order using a Doubly Linked List.
-- Move accessed nodes to the front.
-- Remove the least recently used node from the tail when the cache is full.
+- Push the head of every non-empty list into a min-heap.
+- Extract the smallest node from the heap.
+- Add it to the answer list.
+- Push its next node into the heap.
+- Repeat until the heap is empty.
 
-- get(): O(1)
-- put(): O(1)
-- Space Complexity: O(capacity)
+- Time Complexity: O(N log k)
+- Space Complexity: O(k)
 ---
 
 ## 🔗 Connect with Me
