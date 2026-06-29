@@ -106,6 +106,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 80 | Linked List Cycle II | LeetCode | Medium | Linked List, Two Pointers | Java | [View Code](LinkedList/LinkedListCycleII.java) |
 | 81 | LRU Cache | LeetCode | Medium | Linked List, HashMap, Design | Java | [View Code](LinkedList/LRUCache.java) |
 | 82 | Merge K Sorted Lists | LeetCode | Hard | Linked List, Heap (Priority Queue) | Java | [View Code](LinkedList/MergeKSortedLists.java) |
+| 83 | Reverse Nodes in K-Group | LeetCode | Hard | Linked List | Java | [View Code](LinkedList/ReverseNodesInKGroup.java) |
 
 
 
