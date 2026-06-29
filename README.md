@@ -233,21 +233,20 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Merge K Sorted Lists
-📚 Platform: LeetCode (#23)
+🧩 Problem: Reverse Nodes in K-Group
+📚 Platform: LeetCode (#25)
 ⚙️ Difficulty: Hard
-🧠 Topic: Linked List, Heap (Priority Queue)
+🧠 Topic: Linked List
 
 ### 💡 Approach
 
-- Push the head of every non-empty list into a min-heap.
-- Extract the smallest node from the heap.
-- Add it to the answer list.
-- Push its next node into the heap.
-- Repeat until the heap is empty.
+- Count the total number of nodes.
+- Reverse one group of k nodes at a time.
+- Reconnect the reversed group with the previous and remaining list.
+- Continue until fewer than k nodes remain.
 
-- Time Complexity: O(N log k)
-- Space Complexity: O(k)
+- Time Complexity: O(n)
+- Space Complexity: O(1)
 ---
 
 ## 🔗 Connect with Me
