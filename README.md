@@ -237,17 +237,17 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Reverse Nodes in K-Group
-📚 Platform: LeetCode (#25)
-⚙️ Difficulty: Hard
-🧠 Topic: Linked List
+🧩 Problem: Isomorphic Strings
+📚 Platform: LeetCode (#205)
+⚙️ Difficulty: Easy
+🧠 Topic: Strings, Hashing
 
 ### 💡 Approach
 
-- Count the total number of nodes.
-- Reverse one group of k nodes at a time.
-- Reconnect the reversed group with the previous and remaining list.
-- Continue until fewer than k nodes remain.
+- Traverse both strings simultaneously.
+- Store the last seen position of each character.
+- If the recorded positions differ, the strings are not isomorphic.
+- Otherwise, update both mappings.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
