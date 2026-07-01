@@ -112,7 +112,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 
 
 
-![Easy](https://img.shields.io/badge/Easy-22-green)
+![Easy](https://img.shields.io/badge/Easy-23-green)
 ![Medium](https://img.shields.io/badge/Medium-42-orange)
 ![Hard](https://img.shields.io/badge/Hard-19-red)
 
