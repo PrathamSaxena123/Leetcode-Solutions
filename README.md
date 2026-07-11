@@ -239,20 +239,20 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Isomorphic Strings
-📚 Platform: LeetCode (#205)
-⚙️ Difficulty: Easy
-🧠 Topic: Strings, Hashing
+🧩 Problem: Decode String
+📚 Platform: LeetCode (#394)
+⚙️ Difficulty: Medium
+🧠 Topic: Strings, Stack
 
 ### 💡 Approach
 
-- Traverse both strings simultaneously.
-- Store the last seen position of each character.
-- If the recorded positions differ, the strings are not isomorphic.
-- Otherwise, update both mappings.
+- Use one stack to store repetition counts.
+- Use another stack to store previously built strings.
+- Decode each nested substring when `]` is encountered.
+- Combine the decoded substring with the previous string.
 
 - Time Complexity: O(n)
-- Space Complexity: O(1)
+- Space Complexity: O(n)
 ---
 
 ## 🔗 Connect with Me
