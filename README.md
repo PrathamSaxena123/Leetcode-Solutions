@@ -241,17 +241,17 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Decode String
-📚 Platform: LeetCode (#394)
+🧩 Problem: Reverse Words in a String
+📚 Platform: LeetCode (#151)
 ⚙️ Difficulty: Medium
-🧠 Topic: Strings, Stack
+🧠 Topic: Strings, Two Pointers
 
 ### 💡 Approach
 
-- Use one stack to store repetition counts.
-- Use another stack to store previously built strings.
-- Decode each nested substring when `]` is encountered.
-- Combine the decoded substring with the previous string.
+- Remove leading, trailing, and extra spaces.
+- Reverse the entire cleaned string.
+- Reverse each individual word.
+- Return the transformed sentence.
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
