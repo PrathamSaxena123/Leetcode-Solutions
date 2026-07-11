@@ -109,6 +109,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 83 | Reverse Nodes in K-Group | LeetCode | Hard | Linked List | Java | [View Code](LinkedList/ReverseNodesInKGroup.java) |
 | 84 | Design Skiplist | LeetCode | Hard | Design, Linked List, Probabilistic Data Structure | Java | [View Code](LinkedList/DesignSkiplist.java) |
 | 85 | Isomorphic Strings | LeetCode | Easy | Strings, Hashing | Java | [View Code](Strings/IsomorphicStrings.java) |
+| 86 | Decode String | LeetCode | Medium | Strings, Stack | Java | [View Code](Strings/DecodeString.java) |
 
 
 
