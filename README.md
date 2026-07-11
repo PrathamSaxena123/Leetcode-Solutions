@@ -243,20 +243,21 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Reverse Words in a String
-📚 Platform: LeetCode (#151)
+🧩 Problem: Palindrome Partitioning
+📚 Platform: LeetCode (#131)
 ⚙️ Difficulty: Medium
-🧠 Topic: Strings, Two Pointers
+🧠 Topic: Strings, Backtracking
 
 ### 💡 Approach
 
-- Remove leading, trailing, and extra spaces.
-- Reverse the entire cleaned string.
-- Reverse each individual word.
-- Return the transformed sentence.
+- Start from index 0.
+- Try every possible substring.
+- If it's a palindrome, include it in the current partition.
+- Recursively partition the remaining string.
+- Backtrack to explore other valid partitions.
 
-- Time Complexity: O(n)
-- Space Complexity: O(n)
+- Time Complexity: O(n × 2ⁿ)
+- Space Complexity: O(n) (excluding output)
 ---
 
 ## 🔗 Connect with Me
