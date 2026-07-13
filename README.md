@@ -246,21 +246,21 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Palindrome Partitioning
-📚 Platform: LeetCode (#131)
-⚙️ Difficulty: Medium
-🧠 Topic: Strings, Backtracking
+🧩 Problem: Substring with Concatenation of All Words
+📚 Platform: LeetCode (#30)
+⚙️ Difficulty: Hard
+🧠 Topic: Strings, Sliding Window, HashMap
 
 ### 💡 Approach
 
-- Start from index 0.
-- Try every possible substring.
-- If it's a palindrome, include it in the current partition.
-- Recursively partition the remaining string.
-- Backtrack to explore other valid partitions.
+- Build a frequency map of all words.
+- Process the string using multiple word-sized sliding windows.
+- Track word frequencies in the current window.
+- Shrink the window whenever a word exceeds its allowed frequency.
+- Record the starting index when all words are matched.
 
-- Time Complexity: O(n × 2ⁿ)
-- Space Complexity: O(n) (excluding output)
+- Time Complexity: O(n × wordLength)
+- Space Complexity: O(m)
 ---
 
 ## 🔗 Connect with Me
