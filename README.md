@@ -114,6 +114,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 88 | Palindrome Partitioning | LeetCode | Medium | Strings, Backtracking | Java | [View Code](Strings/PalindromePartitioning.java) |
 | 89 | Shortest Palindrome | LeetCode | Hard | Strings, KMP | Java | [View Code](Strings/ShortestPalindrome.java) |
 | 90 | Text Justification | LeetCode | Hard | Strings, Simulation, Greedy | Java | [View Code](Strings/TextJustification.java) |
+| 91 | Substring with Concatenation of All Words | LeetCode | Hard | Strings, Sliding Window, HashMap | Java | [View Code](Strings/SubstringWithConcatenationOfAllWords.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
