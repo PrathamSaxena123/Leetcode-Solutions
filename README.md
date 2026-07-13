@@ -112,6 +112,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 86 | Decode String | LeetCode | Medium | Strings, Stack | Java | [View Code](Strings/DecodeString.java) |
 | 87 | Reverse Words in a String | LeetCode | Medium | Strings, Two Pointers | Java | [View Code](Strings/ReverseWordsInAString.java) |
 | 88 | Palindrome Partitioning | LeetCode | Medium | Strings, Backtracking | Java | [View Code](Strings/PalindromePartitioning.java) |
+| 89 | Shortest Palindrome | LeetCode | Hard | Strings, KMP | Java | [View Code](Strings/ShortestPalindrome.java) |
 
 
 
