@@ -210,7 +210,10 @@ Leetcode-Solutions/
 │   ├── IsomorphicStrings.java
 │   ├── DecodeString.java
 │   ├── ReverseWordsInAString.java
-│   └── PalindromePartitioning.java
+│   ├── PalindromePartitioning.java
+│   ├── ShortestPalindrome.java
+│   ├── TextJustification.java
+│   └── SubstringWithConcatenationOfAllWords.java
 ├── Tree/
 │   ├── InorderTraversal.java
 │   ├── MaximumDepthOfBinaryTree.java
