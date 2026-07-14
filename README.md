@@ -115,6 +115,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 89 | Shortest Palindrome | LeetCode | Hard | Strings, KMP | Java | [View Code](Strings/ShortestPalindrome.java) |
 | 90 | Text Justification | LeetCode | Hard | Strings, Simulation, Greedy | Java | [View Code](Strings/TextJustification.java) |
 | 91 | Substring with Concatenation of All Words | LeetCode | Hard | Strings, Sliding Window, HashMap | Java | [View Code](Strings/SubstringWithConcatenationOfAllWords.java) |
+| 92 | Evaluate Reverse Polish Notation | LeetCode | Medium | Stack | Java | [View Code](Stack/EvaluateReversePolishNotation.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
