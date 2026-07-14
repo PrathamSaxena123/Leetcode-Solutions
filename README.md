@@ -208,7 +208,8 @@ Leetcode-Solutions/
 │   ├── LargestRectangleInHistogram.java
 │   ├── EvaluateReversePolishNotation.java
 │   ├── SimplifyPath.java
-│   └── OnlineStockSpan.java
+│   ├── OnlineStockSpan.java
+│   └── MaximalRectangle.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
