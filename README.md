@@ -118,6 +118,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 92 | Evaluate Reverse Polish Notation | LeetCode | Medium | Stack | Java | [View Code](Stack/EvaluateReversePolishNotation.java) |
 | 93 | Simplify Path | LeetCode | Medium | Stack, Strings | Java | [View Code](Stack/SimplifyPath.java) |
 | 94 | Online Stock Span | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/OnlineStockSpan.java) |
+| 95 | Maximal Rectangle | LeetCode | Hard | Stack, Dynamic Programming, Matrix | Java | [View Code](Stack/MaximalRectangle.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
