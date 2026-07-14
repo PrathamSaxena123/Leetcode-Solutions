@@ -206,7 +206,8 @@ Leetcode-Solutions/
 │   ├── NextGreaterElementII.java
 │   ├── LargestRectangleInHistogram.java
 │   ├── EvaluateReversePolishNotation.java
-│   └── SimplifyPath.java
+│   ├── SimplifyPath.java
+│   └── OnlineStockSpan.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
