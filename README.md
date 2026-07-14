@@ -205,7 +205,8 @@ Leetcode-Solutions/
 │   ├── DailyTemperatures.java
 │   ├── NextGreaterElementII.java
 │   ├── LargestRectangleInHistogram.java
-│   └── EvaluateReversePolishNotation.java
+│   ├── EvaluateReversePolishNotation.java
+│   └── SimplifyPath.java
 ├── Strings/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── LongestPalindromicSubstring.java
