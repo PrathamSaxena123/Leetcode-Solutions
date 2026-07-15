@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![Progress](https://img.shields.io/badge/Day-97-brightgreen)
+![Progress](https://img.shields.io/badge/Day-98-brightgreen)
 
 Daily DSA Solutions in Java!
 
@@ -119,6 +119,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 93 | Simplify Path | LeetCode | Medium | Stack, Strings | Java | [View Code](Stack/SimplifyPath.java) |
 | 94 | Online Stock Span | LeetCode | Medium | Stack, Monotonic Stack | Java | [View Code](Stack/OnlineStockSpan.java) |
 | 95 | Maximal Rectangle | LeetCode | Hard | Stack, Dynamic Programming, Matrix | Java | [View Code](Stack/MaximalRectangle.java) |
+| 96 | Design Circular Queue | LeetCode | Medium | Queue, Design | Java | [View Code](Queue/DesignCircularQueue.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
