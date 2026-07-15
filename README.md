@@ -121,6 +121,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 95 | Maximal Rectangle | LeetCode | Hard | Stack, Dynamic Programming, Matrix | Java | [View Code](Stack/MaximalRectangle.java) |
 | 96 | Design Circular Queue | LeetCode | Medium | Queue, Design | Java | [View Code](Queue/DesignCircularQueue.java) |
 | 97 | Task Scheduler | LeetCode | Medium | Queue, Greedy, Counting | Java | [View Code](Queue/TaskScheduler.java) |
+| 98 | Dota2 Senate | LeetCode | Medium | Queue, Greedy, Simulation | Java | [View Code](Queue/Dota2Senate.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
