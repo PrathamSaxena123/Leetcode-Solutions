@@ -266,21 +266,23 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Substring with Concatenation of All Words
-📚 Platform: LeetCode (#30)
+🧩 Problem: Find Median from Data Stream
+📚 Platform: LeetCode (#295)
 ⚙️ Difficulty: Hard
-🧠 Topic: Strings, Sliding Window, HashMap
+🧠 Topic: Queue, Heap (Priority Queue)
 
 ### 💡 Approach
 
-- Build a frequency map of all words.
-- Process the string using multiple word-sized sliding windows.
-- Track word frequencies in the current window.
-- Shrink the window whenever a word exceeds its allowed frequency.
-- Record the starting index when all words are matched.
+- Maintain two heaps:
+  - Max Heap for the smaller half.
+  - Min Heap for the larger half.
+- Insert each new number into the correct heap.
+- Rebalance the heaps after every insertion.
+- Return either the top of the Max Heap or the average of both heap tops.
 
-- Time Complexity: O(n × wordLength)
-- Space Complexity: O(m)
+- addNum(): O(log n)
+- findMedian(): O(1)
+- Space Complexity: O(n)
 ---
 
 ## 🔗 Connect with Me
