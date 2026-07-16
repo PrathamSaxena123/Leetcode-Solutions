@@ -122,6 +122,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 96 | Design Circular Queue | LeetCode | Medium | Queue, Design | Java | [View Code](Queue/DesignCircularQueue.java) |
 | 97 | Task Scheduler | LeetCode | Medium | Queue, Greedy, Counting | Java | [View Code](Queue/TaskScheduler.java) |
 | 98 | Dota2 Senate | LeetCode | Medium | Queue, Greedy, Simulation | Java | [View Code](Queue/Dota2Senate.java) |
+| 99 | Kth Smallest Element in a Sorted Matrix | LeetCode | Medium | Queue, Heap (Priority Queue) | Java | [View Code](Queue/KthSmallestElementInASortedMatrix.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
