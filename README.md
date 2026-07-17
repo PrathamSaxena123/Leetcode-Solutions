@@ -124,6 +124,7 @@ I am solving problems daily from platforms like **LeetCode** and **GeeksforGeeks
 | 98 | Dota2 Senate | LeetCode | Medium | Queue, Greedy, Simulation | Java | [View Code](Queue/Dota2Senate.java) |
 | 99 | Kth Smallest Element in a Sorted Matrix | LeetCode | Medium | Queue, Heap (Priority Queue) | Java | [View Code](Queue/KthSmallestElementInASortedMatrix.java) |
 | 100 | Find Median from Data Stream | LeetCode | Hard | Queue, Heap (Priority Queue) | Java | [View Code](Queue/FindMedianFromDataStream.java) |
+| 101 | Constrained Subsequence Sum | LeetCode | Hard | Queue, Dynamic Programming, Monotonic Deque | Java | [View Code](Queue/ConstrainedSubsequenceSum.java) |
 
 
 ![Easy](https://img.shields.io/badge/Easy-23-green)
