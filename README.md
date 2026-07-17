@@ -268,22 +268,20 @@ Leetcode-Solutions/
 ---
 ## 🌟 Featured Problem – Latest
 
-🧩 Problem: Find Median from Data Stream
-📚 Platform: LeetCode (#295)
+🧩 Problem: Constrained Subsequence Sum
+📚 Platform: LeetCode (#1425)
 ⚙️ Difficulty: Hard
-🧠 Topic: Queue, Heap (Priority Queue)
+🧠 Topic: Queue, Dynamic Programming, Monotonic Deque
 
 ### 💡 Approach
 
-- Maintain two heaps:
-  - Max Heap for the smaller half.
-  - Min Heap for the larger half.
-- Insert each new number into the correct heap.
-- Rebalance the heaps after every insertion.
-- Return either the top of the Max Heap or the average of both heap tops.
+- Let `dp[i]` represent the best subsequence sum ending at index `i`.
+- Maintain a monotonic deque of indices with decreasing DP values.
+- Remove indices outside the last `k` positions.
+- Extend the current subsequence using the best DP value in the window.
+- Update the deque and global maximum.
 
-- addNum(): O(log n)
-- findMedian(): O(1)
+- Time Complexity: O(n)
 - Space Complexity: O(n)
 ---
 
